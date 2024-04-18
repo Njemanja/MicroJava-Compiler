@@ -1,0 +1,174 @@
+INFO  06:00:39,652 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\mojtest.mj
+INFO  06:00:39,704 - #2 program
+INFO  06:00:39,704 - #25 MJProgram
+INFO  06:00:39,704 - #3 {
+INFO  06:00:39,707 - #25 int
+INFO  06:00:39,709 - #25 k
+INFO  06:00:39,711 - #6 (
+INFO  06:00:39,712 - #7 )
+INFO  06:00:39,713 - #25 int
+INFO  06:00:39,714 - #25 c
+INFO  06:00:39,714 - #5 ;
+INFO  06:00:39,714 - #3 {
+INFO  06:00:39,715 - #25 c
+INFO  06:00:39,716 - #12 =
+INFO  06:00:39,717 - #24 1
+INFO  06:00:39,717 - #5 ;
+INFO  06:00:39,717 - #10 return
+INFO  06:00:39,718 - #25 c
+INFO  06:00:39,718 - #18 %
+INFO  06:00:39,719 - #24 2
+INFO  06:00:39,721 - #5 ;
+INFO  06:00:39,721 - #4 }
+INFO  06:00:39,722 - #25 int
+INFO  06:00:39,724 - #25 main
+INFO  06:00:39,724 - #6 (
+INFO  06:00:39,725 - #7 )
+INFO  06:00:39,725 - #25 int
+INFO  06:00:39,725 - #25 bodovi
+INFO  06:00:39,725 - #5 ;
+INFO  06:00:39,725 - #25 bool
+INFO  06:00:39,725 - #25 bt
+INFO  06:00:39,725 - #5 ;
+INFO  06:00:39,725 - #3 {
+INFO  06:00:39,726 - #25 niz
+INFO  06:00:39,726 - #12 =
+INFO  06:00:39,726 - #29 new
+INFO  06:00:39,726 - #25 int
+INFO  06:00:39,726 - #20 [
+INFO  06:00:39,726 - #24 3
+INFO  06:00:39,726 - #21 ]
+INFO  06:00:39,726 - #5 ;
+INFO  06:00:39,727 - #4 }
+INFO  06:00:39,727 - #4 }
+INFO  06:00:39,730 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  NoVarDecl(
+  ) [NoVarDecl]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeName(
+          Type(
+           int
+          ) [Type]
+         k
+        ) [MethodTypeName]
+        NoFormParam(
+        ) [NoFormParam]
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+           c
+          ) [VarDecl]
+        ) [VarDeclarations]
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            MatchedStmt(
+              Assignment(
+                DesignatorIDENT(
+                 c
+                ) [DesignatorIDENT]
+                TermExpr(
+                  TermFactor(
+                    FactorNUMBER(
+                     1
+                    ) [FactorNUMBER]
+                  ) [TermFactor]
+                ) [TermExpr]
+              ) [Assignment]
+            ) [MatchedStmt]
+          ) [Statements]
+          MatchedStmt(
+            ReturnExpr(
+              TermExpr(
+                TermDerived1(
+                  TermFactor(
+                    Var(
+                      DesignatorIDENT(
+                       c
+                      ) [DesignatorIDENT]
+                    ) [Var]
+                  ) [TermFactor]
+                  MulopMOD(
+                  ) [MulopMOD]
+                  FactorNUMBER(
+                   2
+                  ) [FactorNUMBER]
+                ) [TermDerived1]
+              ) [TermExpr]
+            ) [ReturnExpr]
+          ) [MatchedStmt]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        Type(
+         int
+        ) [Type]
+       main
+      ) [MethodTypeName]
+      NoFormParam(
+      ) [NoFormParam]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+           bodovi
+          ) [VarDecl]
+        ) [VarDeclarations]
+        VarDecl(
+          Type(
+           bool
+          ) [Type]
+         bt
+        ) [VarDecl]
+      ) [VarDeclarations]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        MatchedStmt(
+          Assignment(
+            DesignatorIDENT(
+             niz
+            ) [DesignatorIDENT]
+            TermExpr(
+              TermFactor(
+                FactorNEW(
+                  Type(
+                   int
+                  ) [Type]
+                  TermExpr(
+                    TermFactor(
+                      FactorNUMBER(
+                       3
+                      ) [FactorNUMBER]
+                    ) [TermFactor]
+                  ) [TermExpr]
+                ) [FactorNEW]
+              ) [TermFactor]
+            ) [TermExpr]
+          ) [Assignment]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  06:00:39,731 - ===================================
+INFO  06:00:39,733 -  Print count calls = 0
+INFO  06:00:39,733 -  Deklarisanih promenljivih ima = 3

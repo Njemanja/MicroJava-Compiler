@@ -1,0 +1,66 @@
+INFO  17:31:50,218 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:31:50,260 - #2 program
+INFO  17:31:50,261 - #28 MJProgram
+INFO  17:31:50,261 - #28 int
+INFO  17:31:50,263 - #28 a
+INFO  17:31:50,264 - #5 ;
+INFO  17:31:50,265 - #28 int
+INFO  17:31:50,265 - #28 b
+INFO  17:31:50,265 - #5 ;
+INFO  17:31:50,265 - #28 char
+INFO  17:31:50,266 - #28 nizX
+INFO  17:31:50,266 - #20 [
+INFO  17:31:50,266 - #21 ]
+INFO  17:31:50,266 - #5 ;
+INFO  17:31:50,266 - #24 const
+INFO  17:31:50,266 - #28 int
+INFO  17:31:50,266 - #28 jeda
+INFO  17:31:50,267 - #12 =
+INFO  17:31:50,267 - #27 8
+INFO  17:31:50,267 - #5 ;
+INFO  17:31:50,267 - #3 {
+INFO  17:31:50,268 - #28 int
+INFO  17:31:50,269 - #28 k
+INFO  17:31:50,269 - #6 (
+INFO  17:31:50,270 - #7 )
+INFO  17:31:50,270 - #28 int
+INFO  17:31:50,271 - #28 c
+INFO  17:31:50,271 - #5 ;
+INFO  17:31:50,271 - #3 {
+INFO  17:31:50,271 - #28 c
+INFO  17:31:50,271 - #12 =
+INFO  17:31:50,272 - #27 1
+INFO  17:31:50,272 - #5 ;
+INFO  17:31:50,272 - #10 return
+INFO  17:31:50,272 - #28 c
+INFO  17:31:50,272 - #18 %
+INFO  17:31:50,272 - #27 2
+INFO  17:31:50,274 - #5 ;
+INFO  17:31:50,274 - #4 }
+INFO  17:31:50,274 - #28 int
+INFO  17:31:50,275 - #28 main
+INFO  17:31:50,275 - #6 (
+INFO  17:31:50,275 - #7 )
+INFO  17:31:50,275 - #3 {
+INFO  17:31:50,275 - #28 y
+INFO  17:31:50,275 - #12 =
+INFO  17:31:50,275 - #27 2
+INFO  17:31:50,276 - #5 ;
+INFO  17:31:50,276 - #28 x
+INFO  17:31:50,276 - #12 =
+INFO  17:31:50,276 - #28 y
+INFO  17:31:50,276 - #11 +
+INFO  17:31:50,276 - #27 2
+INFO  17:31:50,277 - #5 ;
+INFO  17:31:50,277 - #10 return
+INFO  17:31:50,277 - #27 0
+INFO  17:31:50,278 - #5 ;
+INFO  17:31:50,278 - #4 }
+INFO  17:31:50,278 - #4 }
+INFO  17:31:50,286 - Deklarisana promenljiva a
+INFO  17:31:50,286 - Deklarisana promenljiva b
+INFO  17:31:50,286 - Deklarisan je niz nizX
+INFO  17:31:50,286 - Deklarisana je konsanta int jeda = 8
+INFO  17:31:50,286 - Deklarisana promenljiva c
+INFO  17:31:50,286 - Print calls = 0
+INFO  17:31:50,287 - Parsiranje uspesno zavrseno!

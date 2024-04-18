@@ -1,0 +1,164 @@
+INFO  17:41:24,498 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:41:24,551 - #2 program
+INFO  17:41:24,552 - #27 MJProgram
+INFO  17:41:24,552 - #23 const
+INFO  17:41:24,553 - #27 int
+INFO  17:41:24,553 - #27 nula
+INFO  17:41:24,554 - #12 =
+INFO  17:41:24,554 - #26 0
+INFO  17:41:24,554 - #5 ;
+INFO  17:41:24,554 - #23 const
+INFO  17:41:24,555 - #27 int
+INFO  17:41:24,555 - #27 jedan
+INFO  17:41:24,555 - #12 =
+INFO  17:41:24,555 - #26 1
+INFO  17:41:24,555 - #5 ;
+INFO  17:41:24,555 - #23 const
+INFO  17:41:24,555 - #27 int
+INFO  17:41:24,555 - #27 pet
+INFO  17:41:24,555 - #12 =
+INFO  17:41:24,556 - #26 5
+INFO  17:41:24,556 - #5 ;
+INFO  17:41:24,556 - #23 const
+INFO  17:41:24,557 - #27 char
+INFO  17:41:24,557 - #27 pet1
+INFO  17:41:24,557 - #12 =
+INFO  17:41:24,557 - #28 c
+INFO  17:41:24,557 - #5 ;
+INFO  17:41:24,557 - #27 int
+INFO  17:41:24,557 - #27 niz
+INFO  17:41:24,557 - #20 [
+INFO  17:41:24,558 - #21 ]
+INFO  17:41:24,558 - #8 ,
+INFO  17:41:24,558 - #27 niz2
+INFO  17:41:24,558 - #20 [
+INFO  17:41:24,558 - #21 ]
+INFO  17:41:24,558 - #8 ,
+INFO  17:41:24,558 - #27 a
+INFO  17:41:24,558 - #8 ,
+INFO  17:41:24,559 - #27 b
+INFO  17:41:24,559 - #5 ;
+INFO  17:41:24,559 - #27 char
+INFO  17:41:24,560 - #27 nizch
+INFO  17:41:24,560 - #20 [
+INFO  17:41:24,560 - #21 ]
+INFO  17:41:24,560 - #8 ,
+INFO  17:41:24,560 - #27 c
+INFO  17:41:24,560 - #5 ;
+INFO  17:41:24,560 - #27 bool
+INFO  17:41:24,560 - #27 s1
+INFO  17:41:24,560 - #5 ;
+INFO  17:41:24,561 - #3 {
+INFO  17:41:24,561 - #13 void
+INFO  17:41:24,562 - #27 main
+INFO  17:41:24,562 - #6 (
+INFO  17:41:24,563 - #7 )
+INFO  17:41:24,563 - #27 int
+INFO  17:41:24,563 - #27 bodovi
+INFO  17:41:24,563 - #5 ;
+INFO  17:41:24,563 - #27 bool
+INFO  17:41:24,563 - #27 bt
+INFO  17:41:24,563 - #5 ;
+INFO  17:41:24,563 - #27 int
+INFO  17:41:24,563 - #27 s
+INFO  17:41:24,563 - #5 ;
+INFO  17:41:24,563 - #3 {
+INFO  17:41:24,563 - #27 bodovi
+INFO  17:41:24,564 - #12 =
+INFO  17:41:24,564 - #26 0
+INFO  17:41:24,564 - #5 ;
+INFO  17:41:24,565 - #27 bodovi
+INFO  17:41:24,565 - #15 ++
+INFO  17:41:24,565 - #5 ;
+INFO  17:41:24,565 - #27 bodovi
+INFO  17:41:24,565 - #12 =
+INFO  17:41:24,566 - #27 bodovi
+INFO  17:41:24,566 - #11 +
+INFO  17:41:24,566 - #27 jedan
+INFO  17:41:24,567 - #5 ;
+INFO  17:41:24,568 - #27 bodovi
+INFO  17:41:24,568 - #12 =
+INFO  17:41:24,568 - #27 bodovi
+INFO  17:41:24,568 - #14 *
+INFO  17:41:24,568 - #27 pet
+INFO  17:41:24,569 - #5 ;
+INFO  17:41:24,570 - #27 bodovi
+INFO  17:41:24,570 - #16 --
+INFO  17:41:24,570 - #5 ;
+INFO  17:41:24,570 - #9 print
+INFO  17:41:24,570 - #6 (
+INFO  17:41:24,570 - #27 bodovi
+INFO  17:41:24,570 - #7 )
+INFO  17:41:24,570 - #5 ;
+INFO  17:41:24,570 - #27 niz
+INFO  17:41:24,570 - #12 =
+INFO  17:41:24,570 - #32 new
+INFO  17:41:24,570 - #27 int
+INFO  17:41:24,571 - #20 [
+INFO  17:41:24,571 - #26 3
+INFO  17:41:24,571 - #21 ]
+INFO  17:41:24,571 - #5 ;
+INFO  17:41:24,571 - #27 niz
+INFO  17:41:24,571 - #20 [
+INFO  17:41:24,571 - #27 nula
+INFO  17:41:24,571 - #21 ]
+INFO  17:41:24,571 - #12 =
+INFO  17:41:24,571 - #27 jedan
+INFO  17:41:24,571 - #5 ;
+INFO  17:41:24,571 - #22 read
+INFO  17:41:24,571 - #6 (
+INFO  17:41:24,571 - #27 bodovi
+INFO  17:41:24,571 - #7 )
+INFO  17:41:24,571 - #5 ;
+INFO  17:41:24,572 - #27 bodovi
+INFO  17:41:24,572 - #12 =
+INFO  17:41:24,572 - #19 -
+INFO  17:41:24,572 - #27 bodovi
+INFO  17:41:24,572 - #11 +
+INFO  17:41:24,572 - #6 (
+INFO  17:41:24,572 - #27 pet
+INFO  17:41:24,572 - #14 *
+INFO  17:41:24,572 - #27 a
+INFO  17:41:24,572 - #17 /
+INFO  17:41:24,572 - #26 2
+INFO  17:41:24,573 - #19 -
+INFO  17:41:24,573 - #27 jedan
+INFO  17:41:24,574 - #7 )
+INFO  17:41:24,574 - #14 *
+INFO  17:41:24,574 - #27 bodovi
+INFO  17:41:24,574 - #19 -
+INFO  17:41:24,574 - #6 (
+INFO  17:41:24,575 - #26 3
+INFO  17:41:24,575 - #18 %
+INFO  17:41:24,575 - #26 2
+INFO  17:41:24,575 - #11 +
+INFO  17:41:24,575 - #26 3
+INFO  17:41:24,575 - #14 *
+INFO  17:41:24,575 - #26 2
+INFO  17:41:24,576 - #19 -
+INFO  17:41:24,576 - #26 3
+INFO  17:41:24,576 - #7 )
+INFO  17:41:24,576 - #5 ;
+INFO  17:41:24,576 - #9 print
+INFO  17:41:24,576 - #6 (
+INFO  17:41:24,576 - #27 bodovi
+INFO  17:41:24,576 - #7 )
+INFO  17:41:24,576 - #5 ;
+INFO  17:41:24,576 - #4 }
+INFO  17:41:24,576 - #4 }
+INFO  17:41:24,597 - Deklarisana je konsanta int nula = 0
+INFO  17:41:24,598 - Deklarisana je konsanta int jedan = 1
+INFO  17:41:24,598 - Deklarisana je konsanta int pet = 5
+INFO  17:41:24,598 - Deklarisana je konsanta char pet1 = 99 na liniji 6
+INFO  17:41:24,598 - Deklarisan je niz niz
+INFO  17:41:24,598 - Deklarisan je niz niz2
+INFO  17:41:24,598 - Deklarisana promenljiva a
+INFO  17:41:24,598 - Deklarisana promenljiva b
+INFO  17:41:24,598 - Deklarisan je niz nizch
+INFO  17:41:24,598 - Deklarisana promenljiva c
+INFO  17:41:24,598 - Deklarisana promenljiva s1
+INFO  17:41:24,599 - Obradjuje se funkcija main na liniji 12
+INFO  17:41:24,599 - Deklarisana promenljiva bodovi
+INFO  17:41:24,599 - Deklarisana promenljiva bt
+INFO  17:41:24,599 - Deklarisana promenljiva s
+INFO  17:41:24,599 - Deklarisana je niz (uz pomoc NEW) na liniji 27

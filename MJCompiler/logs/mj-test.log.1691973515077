@@ -1,0 +1,88 @@
+INFO  02:34:19,006 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:34:19,045 - #2 program
+INFO  02:34:19,045 - #28 MJProgram
+INFO  02:34:19,045 - #28 int
+INFO  02:34:19,047 - #28 x
+INFO  02:34:19,048 - #5 ;
+INFO  02:34:19,049 - #28 int
+INFO  02:34:19,049 - #28 y
+INFO  02:34:19,049 - #5 ;
+INFO  02:34:19,049 - #28 char
+INFO  02:34:19,049 - #28 cc
+INFO  02:34:19,049 - #5 ;
+INFO  02:34:19,050 - #28 int
+INFO  02:34:19,050 - #28 a
+INFO  02:34:19,050 - #8 ,
+INFO  02:34:19,050 - #28 b
+INFO  02:34:19,050 - #5 ;
+INFO  02:34:19,050 - #28 gr
+INFO  02:34:19,050 - #28 s
+INFO  02:34:19,051 - #5 ;
+INFO  02:34:19,051 - #3 {
+INFO  02:34:19,051 - #28 int
+INFO  02:34:19,052 - #28 k
+INFO  02:34:19,052 - #6 (
+INFO  02:34:19,053 - #7 )
+INFO  02:34:19,053 - #28 int
+INFO  02:34:19,053 - #28 c
+INFO  02:34:19,053 - #5 ;
+INFO  02:34:19,053 - #3 {
+INFO  02:34:19,053 - #28 c
+INFO  02:34:19,054 - #12 =
+INFO  02:34:19,054 - #27 1
+INFO  02:34:19,054 - #5 ;
+INFO  02:34:19,055 - #10 return
+INFO  02:34:19,055 - #28 c
+INFO  02:34:19,055 - #18 %
+INFO  02:34:19,055 - #27 2
+INFO  02:34:19,056 - #5 ;
+INFO  02:34:19,056 - #4 }
+INFO  02:34:19,056 - #28 int
+INFO  02:34:19,057 - #28 main
+INFO  02:34:19,057 - #6 (
+INFO  02:34:19,058 - #7 )
+INFO  02:34:19,058 - #3 {
+INFO  02:34:19,058 - #28 y
+INFO  02:34:19,058 - #12 =
+INFO  02:34:19,058 - #27 2
+INFO  02:34:19,058 - #5 ;
+INFO  02:34:19,058 - #28 x
+INFO  02:34:19,058 - #12 =
+INFO  02:34:19,058 - #28 y
+INFO  02:34:19,058 - #11 +
+INFO  02:34:19,058 - #27 2
+INFO  02:34:19,059 - #5 ;
+INFO  02:34:19,060 - #10 return
+INFO  02:34:19,060 - #27 0
+INFO  02:34:19,060 - #5 ;
+INFO  02:34:19,060 - #4 }
+INFO  02:34:19,060 - #4 }
+INFO  02:34:19,067 - Deklaracija one
+INFO  02:34:19,067 - Deklarisana promenljiva x
+INFO  02:34:19,067 - Deklaracija VAR-a
+INFO  02:34:19,067 - Deklaracija
+INFO  02:34:19,067 - Deklaracija one
+INFO  02:34:19,067 - Deklarisana promenljiva y
+INFO  02:34:19,067 - Deklaracija VAR-a
+INFO  02:34:19,067 - Deklaracija
+INFO  02:34:19,068 - Deklaracija one
+INFO  02:34:19,068 - Deklarisana promenljiva cc
+INFO  02:34:19,068 - Deklaracija VAR-a
+INFO  02:34:19,068 - Deklaracija
+INFO  02:34:19,068 - Deklaracija one
+INFO  02:34:19,068 - Deklaracija one
+INFO  02:34:19,068 - Deklarisana promenljiva b
+INFO  02:34:19,068 - Deklarisana promenljiva b
+INFO  02:34:19,068 - Deklaracija VAR-a
+INFO  02:34:19,068 - Deklaracija
+ERROR 02:34:19,068 - Nije pronadjen tip gr u tabeli simbola
+INFO  02:34:19,068 - Deklaracija one
+INFO  02:34:19,068 - Deklarisana promenljiva s
+INFO  02:34:19,068 - Deklaracija VAR-a
+INFO  02:34:19,068 - Deklaracija
+INFO  02:34:19,068 - Deklaracija one
+INFO  02:34:19,068 - Deklarisana promenljiva c
+INFO  02:34:19,069 - Deklaracija VAR-a
+INFO  02:34:19,069 - Deklaracija
+INFO  02:34:19,069 - Print calls = 0
+ERROR 02:34:19,070 - Parsiranje NIJE uspesno zavrseno!

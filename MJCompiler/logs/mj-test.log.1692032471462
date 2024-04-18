@@ -1,0 +1,80 @@
+INFO  18:57:44,571 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:57:44,889 - #2 program
+INFO  18:57:44,889 - #27 MJProgram
+INFO  18:57:44,890 - #27 int
+INFO  18:57:44,900 - #27 a
+INFO  18:57:44,904 - #5 ;
+INFO  18:57:44,905 - #27 int
+INFO  18:57:44,905 - #27 b
+INFO  18:57:44,906 - #5 ;
+INFO  18:57:44,906 - #27 char
+INFO  18:57:44,906 - #27 nizX
+INFO  18:57:44,906 - #20 [
+INFO  18:57:44,906 - #21 ]
+INFO  18:57:44,906 - #5 ;
+INFO  18:57:44,907 - #23 const
+INFO  18:57:44,907 - #27 char
+INFO  18:57:44,907 - #27 jedan
+INFO  18:57:44,907 - #12 =
+INFO  18:57:44,908 - #28 1
+INFO  18:57:44,908 - #5 ;
+INFO  18:57:44,908 - #23 const
+INFO  18:57:44,909 - #27 int
+INFO  18:57:44,909 - #27 x
+INFO  18:57:44,910 - #12 =
+INFO  18:57:44,910 - #26 1
+INFO  18:57:44,910 - #5 ;
+INFO  18:57:44,910 - #23 const
+INFO  18:57:44,910 - #27 bool
+INFO  18:57:44,910 - #27 s
+INFO  18:57:44,910 - #12 =
+INFO  18:57:44,911 - #29 true
+INFO  18:57:44,911 - #5 ;
+INFO  18:57:44,911 - #3 {
+INFO  18:57:44,911 - #27 int
+INFO  18:57:44,916 - #27 k
+INFO  18:57:44,916 - #6 (
+INFO  18:57:44,921 - #7 )
+INFO  18:57:44,921 - #27 int
+INFO  18:57:44,921 - #27 c
+INFO  18:57:44,921 - #5 ;
+INFO  18:57:44,921 - #3 {
+INFO  18:57:44,921 - #27 c
+INFO  18:57:44,926 - #12 =
+INFO  18:57:44,927 - #26 1
+INFO  18:57:44,927 - #5 ;
+INFO  18:57:44,927 - #10 return
+INFO  18:57:44,928 - #27 c
+INFO  18:57:44,928 - #18 %
+INFO  18:57:44,928 - #26 2
+INFO  18:57:44,936 - #5 ;
+INFO  18:57:44,937 - #4 }
+INFO  18:57:44,937 - #27 int
+INFO  18:57:44,941 - #27 main
+INFO  18:57:44,942 - #6 (
+INFO  18:57:44,942 - #7 )
+INFO  18:57:44,942 - #3 {
+INFO  18:57:44,942 - #27 y
+INFO  18:57:44,942 - #12 =
+INFO  18:57:44,942 - #26 2
+INFO  18:57:44,942 - #5 ;
+INFO  18:57:44,942 - #27 x
+INFO  18:57:44,942 - #12 =
+INFO  18:57:44,943 - #27 y
+INFO  18:57:44,943 - #11 +
+INFO  18:57:44,943 - #26 2
+INFO  18:57:44,951 - #5 ;
+INFO  18:57:44,951 - #10 return
+INFO  18:57:44,951 - #26 0
+INFO  18:57:44,952 - #5 ;
+INFO  18:57:44,952 - #4 }
+INFO  18:57:44,952 - #4 }
+INFO  18:57:44,982 - Deklarisana promenljiva a
+INFO  18:57:44,983 - Deklarisana promenljiva b
+INFO  18:57:44,983 - Deklarisan je niz nizX
+INFO  18:57:44,983 - Deklarisana je konsanta char jedan = 49 na liniji 4
+INFO  18:57:44,983 - Deklarisana je konsanta int x = 1
+INFO  18:57:44,983 - GRESKA: nekompatiblni tipovi boolean i 5
+INFO  18:57:44,984 - Deklarisana promenljiva c
+INFO  18:57:44,984 - Print calls = 0
+ERROR 18:57:44,985 - Parsiranje NIJE uspesno zavrseno!

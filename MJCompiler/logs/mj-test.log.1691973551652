@@ -1,0 +1,80 @@
+INFO  02:38:35,082 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:38:35,122 - #2 program
+INFO  02:38:35,122 - #28 MJProgram
+INFO  02:38:35,122 - #28 int
+INFO  02:38:35,124 - #28 x
+INFO  02:38:35,125 - #5 ;
+INFO  02:38:35,125 - #28 int
+INFO  02:38:35,125 - #28 x
+INFO  02:38:35,126 - #5 ;
+INFO  02:38:35,126 - #28 char
+INFO  02:38:35,126 - #28 cc
+INFO  02:38:35,126 - #5 ;
+INFO  02:38:35,126 - #28 int
+INFO  02:38:35,126 - #28 a
+INFO  02:38:35,126 - #8 ,
+INFO  02:38:35,127 - #28 b
+INFO  02:38:35,127 - #5 ;
+INFO  02:38:35,127 - #3 {
+INFO  02:38:35,127 - #28 int
+INFO  02:38:35,128 - #28 k
+INFO  02:38:35,128 - #6 (
+INFO  02:38:35,129 - #7 )
+INFO  02:38:35,130 - #28 int
+INFO  02:38:35,130 - #28 c
+INFO  02:38:35,130 - #5 ;
+INFO  02:38:35,130 - #3 {
+INFO  02:38:35,130 - #28 c
+INFO  02:38:35,132 - #12 =
+INFO  02:38:35,132 - #27 1
+INFO  02:38:35,132 - #5 ;
+INFO  02:38:35,132 - #10 return
+INFO  02:38:35,133 - #28 c
+INFO  02:38:35,133 - #18 %
+INFO  02:38:35,133 - #27 2
+INFO  02:38:35,135 - #5 ;
+INFO  02:38:35,135 - #4 }
+INFO  02:38:35,135 - #28 int
+INFO  02:38:35,136 - #28 main
+INFO  02:38:35,136 - #6 (
+INFO  02:38:35,137 - #7 )
+INFO  02:38:35,137 - #3 {
+INFO  02:38:35,137 - #28 y
+INFO  02:38:35,137 - #12 =
+INFO  02:38:35,137 - #27 2
+INFO  02:38:35,137 - #5 ;
+INFO  02:38:35,137 - #28 x
+INFO  02:38:35,137 - #12 =
+INFO  02:38:35,137 - #28 y
+INFO  02:38:35,137 - #11 +
+INFO  02:38:35,138 - #27 2
+INFO  02:38:35,139 - #5 ;
+INFO  02:38:35,139 - #10 return
+INFO  02:38:35,140 - #27 0
+INFO  02:38:35,140 - #5 ;
+INFO  02:38:35,140 - #4 }
+INFO  02:38:35,140 - #4 }
+INFO  02:38:35,147 - Promenljiva x je vec deklarisana!
+INFO  02:38:35,147 - Deklaracija one
+INFO  02:38:35,147 - Deklaracija VAR-a
+INFO  02:38:35,147 - Deklaracija
+INFO  02:38:35,147 - Promenljiva x je vec deklarisana!
+INFO  02:38:35,147 - Deklaracija one
+INFO  02:38:35,148 - Deklaracija VAR-a
+INFO  02:38:35,148 - Deklaracija
+INFO  02:38:35,148 - Promenljiva cc je vec deklarisana!
+INFO  02:38:35,148 - Deklaracija one
+INFO  02:38:35,148 - Deklaracija VAR-a
+INFO  02:38:35,148 - Deklaracija
+INFO  02:38:35,148 - Promenljiva a je vec deklarisana!
+INFO  02:38:35,148 - Promenljiva b je vec deklarisana!
+INFO  02:38:35,148 - Deklaracija one
+INFO  02:38:35,148 - Deklaracija one
+INFO  02:38:35,148 - Deklaracija VAR-a
+INFO  02:38:35,148 - Deklaracija
+INFO  02:38:35,148 - Promenljiva c je vec deklarisana!
+INFO  02:38:35,148 - Deklaracija one
+INFO  02:38:35,148 - Deklaracija VAR-a
+INFO  02:38:35,148 - Deklaracija
+INFO  02:38:35,149 - Print calls = 0
+INFO  02:38:35,149 - Parsiranje uspesno zavrseno!

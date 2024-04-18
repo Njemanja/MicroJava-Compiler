@@ -1,0 +1,53 @@
+INFO  22:04:07,148 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:04:07,205 - #2 program
+INFO  22:04:07,206 - #27 MJProgram
+INFO  22:04:07,206 - #23 const
+INFO  22:04:07,207 - #27 int
+INFO  22:04:07,207 - #27 nula
+INFO  22:04:07,208 - #12 =
+INFO  22:04:07,208 - #26 0
+INFO  22:04:07,208 - #5 ;
+INFO  22:04:07,209 - #23 const
+INFO  22:04:07,209 - #27 int
+INFO  22:04:07,209 - #27 jedan
+INFO  22:04:07,209 - #12 =
+INFO  22:04:07,209 - #26 1
+INFO  22:04:07,209 - #5 ;
+INFO  22:04:07,209 - #23 const
+INFO  22:04:07,209 - #27 int
+INFO  22:04:07,210 - #27 pet
+INFO  22:04:07,210 - #12 =
+INFO  22:04:07,210 - #26 5
+INFO  22:04:07,210 - #5 ;
+INFO  22:04:07,210 - #27 int
+INFO  22:04:07,210 - #27 niz
+INFO  22:04:07,210 - #20 [
+INFO  22:04:07,210 - #21 ]
+INFO  22:04:07,210 - #8 ,
+INFO  22:04:07,211 - #27 niz2
+INFO  22:04:07,211 - #20 [
+INFO  22:04:07,211 - #21 ]
+INFO  22:04:07,211 - #8 ,
+INFO  22:04:07,211 - #27 a
+INFO  22:04:07,211 - #8 ,
+INFO  22:04:07,211 - #27 b
+INFO  22:04:07,211 - #5 ;
+INFO  22:04:07,211 - #27 char
+INFO  22:04:07,212 - #27 nizch
+INFO  22:04:07,212 - #20 [
+INFO  22:04:07,212 - #21 ]
+INFO  22:04:07,212 - #5 ;
+INFO  22:04:07,212 - #3 {
+INFO  22:04:07,212 - #13 void
+INFO  22:04:07,213 - #27 main
+INFO  22:04:07,213 - #6 (
+INFO  22:04:07,213 - #7 )
+INFO  22:04:07,213 - #27 int
+INFO  22:04:07,213 - #27 bodovi
+INFO  22:04:07,213 - #5 ;
+ERROR 22:04:07,213 - 
+Sintaksna greska na liniji 11
+ERROR 22:04:07,213 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11
+INFO  22:04:07,228 - Print calls = 0
+INFO  22:04:07,228 -  Deklarisanih promenljivih ima = 0
+ERROR 22:04:07,228 - Parsiranje NIJE uspesno zavrseno!

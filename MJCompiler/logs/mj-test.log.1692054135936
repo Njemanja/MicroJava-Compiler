@@ -1,0 +1,146 @@
+INFO  01:00:43,785 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  01:00:43,854 - #2 program
+INFO  01:00:43,855 - #27 MJProgram
+INFO  01:00:43,855 - #23 const
+INFO  01:00:43,857 - #27 int
+INFO  01:00:43,857 - #27 nula
+INFO  01:00:43,858 - #12 =
+INFO  01:00:43,859 - #26 0
+INFO  01:00:43,859 - #5 ;
+INFO  01:00:43,859 - #23 const
+INFO  01:00:43,860 - #27 int
+INFO  01:00:43,860 - #27 jedan
+INFO  01:00:43,860 - #12 =
+INFO  01:00:43,860 - #26 1
+INFO  01:00:43,861 - #5 ;
+INFO  01:00:43,861 - #23 const
+INFO  01:00:43,861 - #27 int
+INFO  01:00:43,861 - #27 pet
+INFO  01:00:43,861 - #12 =
+INFO  01:00:43,862 - #26 5
+INFO  01:00:43,862 - #5 ;
+INFO  01:00:43,862 - #27 int
+INFO  01:00:43,862 - #27 niz
+INFO  01:00:43,863 - #20 [
+INFO  01:00:43,863 - #21 ]
+INFO  01:00:43,863 - #8 ,
+INFO  01:00:43,863 - #27 niz2
+INFO  01:00:43,863 - #20 [
+INFO  01:00:43,863 - #21 ]
+INFO  01:00:43,864 - #8 ,
+INFO  01:00:43,864 - #27 a
+INFO  01:00:43,864 - #8 ,
+INFO  01:00:43,864 - #27 b
+INFO  01:00:43,864 - #5 ;
+INFO  01:00:43,865 - #27 char
+INFO  01:00:43,865 - #27 nizch
+INFO  01:00:43,865 - #20 [
+INFO  01:00:43,865 - #21 ]
+INFO  01:00:43,865 - #8 ,
+INFO  01:00:43,865 - #27 c
+INFO  01:00:43,865 - #5 ;
+INFO  01:00:43,866 - #3 {
+INFO  01:00:43,866 - #13 void
+INFO  01:00:43,867 - #27 main
+INFO  01:00:43,867 - #6 (
+INFO  01:00:43,868 - #7 )
+INFO  01:00:43,868 - #27 int
+INFO  01:00:43,868 - #27 bodovi
+INFO  01:00:43,868 - #5 ;
+INFO  01:00:43,868 - #27 bool
+INFO  01:00:43,868 - #27 bt
+INFO  01:00:43,868 - #5 ;
+INFO  01:00:43,868 - #27 int
+INFO  01:00:43,869 - #27 s
+INFO  01:00:43,869 - #5 ;
+INFO  01:00:43,869 - #3 {
+INFO  01:00:43,869 - #27 bodovi
+INFO  01:00:43,870 - #12 =
+INFO  01:00:43,871 - #26 0
+INFO  01:00:43,871 - #5 ;
+INFO  01:00:43,871 - #27 bodovi
+INFO  01:00:43,872 - #15 ++
+INFO  01:00:43,872 - #5 ;
+INFO  01:00:43,872 - #27 bodovi
+INFO  01:00:43,872 - #12 =
+INFO  01:00:43,872 - #27 bodovi
+INFO  01:00:43,872 - #11 +
+INFO  01:00:43,873 - #27 jedan
+INFO  01:00:43,875 - #5 ;
+INFO  01:00:43,875 - #27 bodovi
+INFO  01:00:43,875 - #12 =
+INFO  01:00:43,875 - #27 bodovi
+INFO  01:00:43,875 - #14 *
+INFO  01:00:43,875 - #27 pet
+INFO  01:00:43,877 - #5 ;
+INFO  01:00:43,877 - #27 bodovi
+INFO  01:00:43,878 - #16 --
+INFO  01:00:43,878 - #5 ;
+INFO  01:00:43,878 - #9 print
+INFO  01:00:43,878 - #6 (
+INFO  01:00:43,878 - #27 bodovi
+INFO  01:00:43,878 - #7 )
+INFO  01:00:43,878 - #5 ;
+INFO  01:00:43,878 - #27 l
+INFO  01:00:43,878 - #12 =
+INFO  01:00:43,879 - #28 a
+INFO  01:00:43,879 - #5 ;
+INFO  01:00:43,879 - #22 read
+INFO  01:00:43,879 - #6 (
+INFO  01:00:43,879 - #27 bodovi
+INFO  01:00:43,879 - #7 )
+INFO  01:00:43,879 - #5 ;
+INFO  01:00:43,879 - #27 bodovi
+INFO  01:00:43,880 - #12 =
+INFO  01:00:43,880 - #19 -
+INFO  01:00:43,880 - #27 bodovi
+INFO  01:00:43,880 - #11 +
+INFO  01:00:43,880 - #6 (
+INFO  01:00:43,880 - #27 pet
+INFO  01:00:43,880 - #14 *
+INFO  01:00:43,880 - #27 a
+INFO  01:00:43,880 - #17 /
+INFO  01:00:43,881 - #26 2
+INFO  01:00:43,882 - #19 -
+INFO  01:00:43,882 - #27 jedan
+INFO  01:00:43,883 - #7 )
+INFO  01:00:43,883 - #14 *
+INFO  01:00:43,883 - #27 bodovi
+INFO  01:00:43,883 - #19 -
+INFO  01:00:43,883 - #6 (
+INFO  01:00:43,884 - #26 3
+INFO  01:00:43,884 - #18 %
+INFO  01:00:43,884 - #26 2
+INFO  01:00:43,885 - #11 +
+INFO  01:00:43,885 - #26 3
+INFO  01:00:43,885 - #14 *
+INFO  01:00:43,885 - #26 2
+INFO  01:00:43,885 - #19 -
+INFO  01:00:43,885 - #26 3
+INFO  01:00:43,885 - #7 )
+INFO  01:00:43,885 - #5 ;
+INFO  01:00:43,886 - #9 print
+INFO  01:00:43,886 - #6 (
+INFO  01:00:43,886 - #27 bodovi
+INFO  01:00:43,886 - #7 )
+INFO  01:00:43,886 - #5 ;
+INFO  01:00:43,886 - #4 }
+INFO  01:00:43,886 - #4 }
+INFO  01:00:43,905 - Deklarisana je konsanta int nula = 0
+INFO  01:00:43,906 - Deklarisana je konsanta int jedan = 1
+INFO  01:00:43,906 - Deklarisana je konsanta int pet = 5
+INFO  01:00:43,906 - Deklarisan je niz niz
+INFO  01:00:43,907 - Deklarisan je niz niz2
+INFO  01:00:43,907 - Deklarisana promenljiva a
+INFO  01:00:43,907 - Deklarisana promenljiva b
+INFO  01:00:43,907 - Deklarisan je niz nizch
+INFO  01:00:43,907 - Deklarisana promenljiva c
+INFO  01:00:43,908 - Obradjuje se funkcija main na liniji 11
+INFO  01:00:43,908 - Deklarisana promenljiva bodovi
+INFO  01:00:43,908 - Deklarisana promenljiva bt
+INFO  01:00:43,908 - Deklarisana promenljiva s
+ERROR 01:00:43,909 - Greska na liniji 24 : ime l nije deklarisano! 
+ERROR 01:00:43,909 - Greska na liniji 24 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  01:00:43,909 - Print calls = 2
+INFO  01:00:43,909 -  Deklarisanih promenljivih ima = 9
+ERROR 01:00:43,910 - Parsiranje NIJE uspesno zavrseno!

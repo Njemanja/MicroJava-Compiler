@@ -1,0 +1,28 @@
+INFO  00:28:51,392 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:28:51,460 - #2 program
+INFO  00:28:51,460 - #27 MJProgram
+INFO  00:28:51,460 - #3 {
+INFO  00:28:51,462 - #13 void
+INFO  00:28:51,463 - #27 main
+INFO  00:28:51,463 - #6 (
+INFO  00:28:51,463 - #7 )
+INFO  00:28:51,464 - #3 {
+INFO  00:28:51,464 - #9 print
+INFO  00:28:51,465 - #6 (
+INFO  00:28:51,466 - #26 1
+INFO  00:28:51,466 - #7 )
+INFO  00:28:51,466 - #5 ;
+INFO  00:28:51,467 - #9 print
+INFO  00:28:51,467 - #6 (
+INFO  00:28:51,467 - #26 2
+INFO  00:28:51,467 - #7 )
+INFO  00:28:51,468 - #5 ;
+INFO  00:28:51,468 - #4 }
+INFO  00:28:51,468 - #4 }
+INFO  00:28:51,483 - Obradjuje se funkcija main na liniji 4
+INFO  00:28:51,484 - 1
+INFO  00:28:51,484 - 1
+INFO  00:28:51,485 - Print calls = 2
+INFO  00:28:51,485 -  Deklarisanih promenljivih ima = 0
+INFO  00:28:51,486 - Generating bytecode file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  00:28:51,493 - Parsiranje uspesno zavrseno!

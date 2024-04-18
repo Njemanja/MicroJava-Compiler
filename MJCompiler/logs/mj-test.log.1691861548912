@@ -1,0 +1,24 @@
+INFO  19:00:04,705 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\mojtest.mj
+INFO  19:00:04,750 - #2 program
+INFO  19:00:04,750 - #26 test301
+INFO  19:00:04,750 - #24 const
+INFO  19:00:04,752 - #26 int
+INFO  19:00:04,752 - #26 nula
+INFO  19:00:04,753 - #12 =
+INFO  19:00:04,753 - #25 0
+INFO  19:00:04,753 - #5 ;
+INFO  19:00:04,753 - #24 const
+INFO  19:00:04,754 - #26 int
+INFO  19:00:04,754 - #26 jedan
+INFO  19:00:04,754 - #12 =
+INFO  19:00:04,754 - #25 1
+INFO  19:00:04,754 - #5 ;
+INFO  19:00:04,754 - #24 const
+INFO  19:00:04,754 - #26 int
+INFO  19:00:04,754 - #26 pet
+INFO  19:00:04,754 - #12 =
+INFO  19:00:04,755 - #25 5
+INFO  19:00:04,755 - #5 ;
+ERROR 19:00:04,755 - 
+Sintaksna greska na liniji 13
+ERROR 19:00:04,756 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 13

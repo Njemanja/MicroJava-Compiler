@@ -1,0 +1,287 @@
+INFO  23:54:17,082 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:54:17,154 - #2 program
+INFO  23:54:17,154 - #27 MJProgram
+INFO  23:54:17,154 - #23 const
+INFO  23:54:17,156 - #27 int
+INFO  23:54:17,156 - #27 nula
+INFO  23:54:17,157 - #12 =
+INFO  23:54:17,158 - #26 0
+INFO  23:54:17,158 - #5 ;
+INFO  23:54:17,158 - #23 const
+INFO  23:54:17,159 - #27 int
+INFO  23:54:17,159 - #27 jedan
+INFO  23:54:17,159 - #12 =
+INFO  23:54:17,160 - #26 1
+INFO  23:54:17,160 - #5 ;
+INFO  23:54:17,160 - #23 const
+INFO  23:54:17,160 - #27 int
+INFO  23:54:17,160 - #27 pet
+INFO  23:54:17,161 - #12 =
+INFO  23:54:17,161 - #26 5
+INFO  23:54:17,161 - #5 ;
+INFO  23:54:17,161 - #23 const
+INFO  23:54:17,162 - #27 char
+INFO  23:54:17,162 - #27 pet1
+INFO  23:54:17,162 - #12 =
+INFO  23:54:17,162 - #28 c
+INFO  23:54:17,162 - #5 ;
+INFO  23:54:17,162 - #27 int
+INFO  23:54:17,163 - #27 niz
+INFO  23:54:17,163 - #20 [
+INFO  23:54:17,163 - #21 ]
+INFO  23:54:17,163 - #8 ,
+INFO  23:54:17,163 - #27 niz2
+INFO  23:54:17,163 - #20 [
+INFO  23:54:17,164 - #21 ]
+INFO  23:54:17,164 - #8 ,
+INFO  23:54:17,164 - #27 a
+INFO  23:54:17,164 - #8 ,
+INFO  23:54:17,164 - #27 b
+INFO  23:54:17,164 - #5 ;
+INFO  23:54:17,165 - #27 char
+INFO  23:54:17,165 - #27 nizch
+INFO  23:54:17,165 - #20 [
+INFO  23:54:17,165 - #21 ]
+INFO  23:54:17,165 - #8 ,
+INFO  23:54:17,166 - #27 c
+INFO  23:54:17,166 - #5 ;
+INFO  23:54:17,166 - #27 bool
+INFO  23:54:17,166 - #27 s1
+INFO  23:54:17,166 - #5 ;
+INFO  23:54:17,167 - #3 {
+INFO  23:54:17,167 - #13 void
+INFO  23:54:17,168 - #27 main
+INFO  23:54:17,169 - #6 (
+INFO  23:54:17,169 - #7 )
+INFO  23:54:17,169 - #27 int
+INFO  23:54:17,169 - #27 bodovi
+INFO  23:54:17,169 - #5 ;
+INFO  23:54:17,170 - #27 bool
+INFO  23:54:17,170 - #27 bt
+INFO  23:54:17,170 - #5 ;
+INFO  23:54:17,170 - #27 int
+INFO  23:54:17,170 - #27 s
+INFO  23:54:17,170 - #5 ;
+INFO  23:54:17,171 - #3 {
+INFO  23:54:17,171 - #27 bodovi
+INFO  23:54:17,172 - #12 =
+INFO  23:54:17,173 - #26 0
+INFO  23:54:17,173 - #5 ;
+INFO  23:54:17,173 - #27 bodovi
+INFO  23:54:17,174 - #15 ++
+INFO  23:54:17,174 - #5 ;
+INFO  23:54:17,174 - #27 bodovi
+INFO  23:54:17,174 - #12 =
+INFO  23:54:17,174 - #27 bodovi
+INFO  23:54:17,174 - #11 +
+INFO  23:54:17,174 - #27 jedan
+INFO  23:54:17,176 - #5 ;
+INFO  23:54:17,177 - #27 bodovi
+INFO  23:54:17,177 - #12 =
+INFO  23:54:17,177 - #27 bodovi
+INFO  23:54:17,177 - #14 *
+INFO  23:54:17,177 - #27 pet
+INFO  23:54:17,179 - #5 ;
+INFO  23:54:17,179 - #27 bodovi
+INFO  23:54:17,179 - #16 --
+INFO  23:54:17,179 - #5 ;
+INFO  23:54:17,179 - #9 print
+INFO  23:54:17,180 - #6 (
+INFO  23:54:17,180 - #27 bodovi
+INFO  23:54:17,180 - #7 )
+INFO  23:54:17,180 - #5 ;
+INFO  23:54:17,180 - #27 niz
+INFO  23:54:17,180 - #12 =
+INFO  23:54:17,180 - #32 new
+INFO  23:54:17,181 - #27 int
+INFO  23:54:17,181 - #20 [
+INFO  23:54:17,181 - #26 3
+INFO  23:54:17,181 - #21 ]
+INFO  23:54:17,181 - #5 ;
+INFO  23:54:17,182 - #27 niz
+INFO  23:54:17,183 - #20 [
+INFO  23:54:17,184 - #27 nula
+INFO  23:54:17,184 - #21 ]
+INFO  23:54:17,184 - #12 =
+INFO  23:54:17,184 - #27 jedan
+INFO  23:54:17,185 - #5 ;
+INFO  23:54:17,185 - #27 niz
+INFO  23:54:17,185 - #20 [
+INFO  23:54:17,185 - #26 1
+INFO  23:54:17,185 - #21 ]
+INFO  23:54:17,185 - #12 =
+INFO  23:54:17,186 - #26 2
+INFO  23:54:17,186 - #5 ;
+INFO  23:54:17,186 - #9 print
+INFO  23:54:17,186 - #6 (
+INFO  23:54:17,186 - #27 bodovi
+INFO  23:54:17,187 - #7 )
+INFO  23:54:17,187 - #5 ;
+INFO  23:54:17,187 - #9 print
+INFO  23:54:17,187 - #6 (
+INFO  23:54:17,187 - #27 niz
+INFO  23:54:17,187 - #20 [
+INFO  23:54:17,187 - #26 2
+INFO  23:54:17,188 - #21 ]
+INFO  23:54:17,188 - #7 )
+INFO  23:54:17,188 - #5 ;
+INFO  23:54:17,189 - #27 nizch
+INFO  23:54:17,189 - #20 [
+INFO  23:54:17,189 - #27 pet
+INFO  23:54:17,189 - #19 -
+INFO  23:54:17,189 - #26 3
+INFO  23:54:17,191 - #21 ]
+INFO  23:54:17,191 - #12 =
+INFO  23:54:17,192 - #28 c
+INFO  23:54:17,192 - #5 ;
+INFO  23:54:17,192 - #9 print
+INFO  23:54:17,192 - #6 (
+INFO  23:54:17,192 - #27 nizch
+INFO  23:54:17,192 - #20 [
+INFO  23:54:17,192 - #26 1
+INFO  23:54:17,192 - #21 ]
+INFO  23:54:17,192 - #7 )
+INFO  23:54:17,193 - #5 ;
+INFO  23:54:17,193 - #9 print
+INFO  23:54:17,193 - #6 (
+INFO  23:54:17,193 - #27 nizch
+INFO  23:54:17,193 - #20 [
+INFO  23:54:17,193 - #27 jedan
+INFO  23:54:17,193 - #14 *
+INFO  23:54:17,193 - #26 2
+INFO  23:54:17,193 - #21 ]
+INFO  23:54:17,193 - #7 )
+INFO  23:54:17,193 - #5 ;
+INFO  23:54:17,193 - #22 read
+INFO  23:54:17,193 - #6 (
+INFO  23:54:17,193 - #27 bodovi
+INFO  23:54:17,194 - #7 )
+INFO  23:54:17,194 - #5 ;
+INFO  23:54:17,194 - #27 bodovi
+INFO  23:54:17,194 - #12 =
+INFO  23:54:17,194 - #19 -
+INFO  23:54:17,194 - #27 bodovi
+INFO  23:54:17,194 - #11 +
+INFO  23:54:17,194 - #6 (
+INFO  23:54:17,194 - #27 pet
+INFO  23:54:17,194 - #14 *
+INFO  23:54:17,194 - #27 a
+INFO  23:54:17,194 - #17 /
+INFO  23:54:17,195 - #26 2
+INFO  23:54:17,196 - #19 -
+INFO  23:54:17,196 - #27 jedan
+INFO  23:54:17,196 - #7 )
+INFO  23:54:17,196 - #14 *
+INFO  23:54:17,197 - #27 bodovi
+INFO  23:54:17,197 - #19 -
+INFO  23:54:17,197 - #6 (
+INFO  23:54:17,197 - #26 3
+INFO  23:54:17,197 - #18 %
+INFO  23:54:17,197 - #26 2
+INFO  23:54:17,198 - #11 +
+INFO  23:54:17,199 - #26 3
+INFO  23:54:17,199 - #14 *
+INFO  23:54:17,199 - #26 2
+INFO  23:54:17,199 - #19 -
+INFO  23:54:17,199 - #26 3
+INFO  23:54:17,199 - #7 )
+INFO  23:54:17,200 - #5 ;
+INFO  23:54:17,200 - #9 print
+INFO  23:54:17,200 - #6 (
+INFO  23:54:17,200 - #27 bodovi
+INFO  23:54:17,200 - #7 )
+INFO  23:54:17,200 - #5 ;
+INFO  23:54:17,200 - #4 }
+INFO  23:54:17,200 - #4 }
+INFO  23:54:17,221 - Deklarisana je konsanta int nula = 0
+INFO  23:54:17,221 - Deklarisana je konsanta int jedan = 1
+INFO  23:54:17,221 - Deklarisana je konsanta int pet = 5
+INFO  23:54:17,221 - Deklarisana je konsanta char pet1 = 99 na liniji 6
+INFO  23:54:17,222 - Deklarisan je niz niz
+INFO  23:54:17,222 - Deklarisan je niz niz2
+INFO  23:54:17,222 - Deklarisana promenljiva a
+INFO  23:54:17,222 - Deklarisana promenljiva b
+INFO  23:54:17,222 - Deklarisan je niz nizch
+INFO  23:54:17,222 - Deklarisana promenljiva c
+INFO  23:54:17,222 - Deklarisana promenljiva s1
+INFO  23:54:17,223 - Obradjuje se funkcija main na liniji 12
+INFO  23:54:17,223 - Deklarisana promenljiva bodovi
+INFO  23:54:17,223 - Deklarisana promenljiva bt
+INFO  23:54:17,223 - Deklarisana promenljiva s
+INFO  23:54:17,223 - 1
+INFO  23:54:17,223 - TIP 0: 1
+INFO  23:54:17,224 - TIP 1: 1  TIP 2: 1
+INFO  23:54:17,224 - Dobri tipovi!
+INFO  23:54:17,224 - Tippppp: 1
+INFO  23:54:17,224 - 1
+INFO  23:54:17,224 - Tippppp: 1
+INFO  23:54:17,224 - TIP 0: 1
+INFO  23:54:17,224 - TIP 1: 1  TIP 2: 1
+INFO  23:54:17,225 - Dobri tipovi!
+INFO  23:54:17,225 - Tippppp: 1
+INFO  23:54:17,225 - Tippppp: 1
+INFO  23:54:17,225 - TIP 1: true  TIP 2: true
+INFO  23:54:17,225 - 1
+INFO  23:54:17,225 - TIP 0: 1
+INFO  23:54:17,225 - TIP 1: 1  TIP 2: 1
+INFO  23:54:17,225 - Dobri tipovi!
+INFO  23:54:17,225 - Tippppp: 1
+INFO  23:54:17,225 - 1
+INFO  23:54:17,226 - 1
+INFO  23:54:17,226 - Deklarisana je niz (uz pomoc NEW) na liniji 28
+INFO  23:54:17,226 - 3
+INFO  23:54:17,226 - TIP 0: 1
+INFO  23:54:17,226 - TIP 1: 3  TIP 2: 3
+INFO  23:54:17,226 - Dobri tipovi!
+INFO  23:54:17,226 - Tippppp: 1
+INFO  23:54:17,226 - 1
+INFO  23:54:17,226 - Tippppp: 1
+INFO  23:54:17,227 - 1
+INFO  23:54:17,227 - TIP 0: 1
+INFO  23:54:17,227 - TIP 1: 3  TIP 2: 1
+INFO  23:54:17,227 - Dobri tipovi!
+INFO  23:54:17,227 - 1
+INFO  23:54:17,227 - 1
+INFO  23:54:17,227 - TIP 0: 1
+INFO  23:54:17,227 - TIP 1: 3  TIP 2: 1
+INFO  23:54:17,227 - Dobri tipovi!
+INFO  23:54:17,228 - Tippppp: 1
+INFO  23:54:17,228 - 1
+INFO  23:54:17,228 - 1
+INFO  23:54:17,228 - Tippppp: 3
+INFO  23:54:17,228 - 3
+INFO  23:54:17,228 - Tippppp: 1
+INFO  23:54:17,228 - 1
+INFO  23:54:17,228 - 2
+INFO  23:54:17,229 - TIP 0: 1
+INFO  23:54:17,229 - TIP 1: 3  TIP 2: 2
+ERROR 23:54:17,229 - Greska na liniji 41 :  nije moguce dodeliti vrednost.
+INFO  23:54:17,229 - 1
+INFO  23:54:17,230 - Tippppp: 3
+INFO  23:54:17,230 - 3
+INFO  23:54:17,230 - Tippppp: 1
+INFO  23:54:17,230 - TIP 1: true  TIP 2: true
+INFO  23:54:17,230 - 1
+INFO  23:54:17,230 - Tippppp: 3
+INFO  23:54:17,230 - 3
+INFO  23:54:17,231 - Tippppp: 1
+INFO  23:54:17,231 - Izvrsena negacija  na liniji 47
+INFO  23:54:17,231 - Tippppp: 1
+INFO  23:54:17,231 - Tippppp: 1
+INFO  23:54:17,231 - TIP 1: true  TIP 2: true
+INFO  23:54:17,231 - TIP 1: true  TIP 2: true
+INFO  23:54:17,231 - 1
+INFO  23:54:17,231 - Tippppp: 1
+INFO  23:54:17,232 - Tippppp: 1
+INFO  23:54:17,232 - TIP 1: true  TIP 2: true
+INFO  23:54:17,232 - TIP 1: true  TIP 2: true
+INFO  23:54:17,232 - 1
+INFO  23:54:17,232 - TIP 1: true  TIP 2: true
+INFO  23:54:17,232 - TIP 0: 1
+INFO  23:54:17,232 - TIP 1: 1  TIP 2: 1
+INFO  23:54:17,233 - Dobri tipovi!
+INFO  23:54:17,233 - Tippppp: 1
+INFO  23:54:17,233 - 1
+INFO  23:54:17,234 - Print calls = 6
+INFO  23:54:17,234 -  Deklarisanih promenljivih ima = 11
+ERROR 23:54:17,235 - Parsiranje NIJE uspesno zavrseno!

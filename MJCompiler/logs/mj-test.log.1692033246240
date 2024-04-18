@@ -1,0 +1,66 @@
+INFO  19:13:30,768 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:13:30,830 - #2 program
+INFO  19:13:30,830 - #27 MJProgram
+INFO  19:13:30,831 - #23 const
+INFO  19:13:30,833 - #27 char
+INFO  19:13:30,834 - #27 c1
+INFO  19:13:30,835 - #12 =
+INFO  19:13:30,835 - #28 c
+INFO  19:13:30,835 - #5 ;
+INFO  19:13:30,835 - #23 const
+INFO  19:13:30,836 - #27 int
+INFO  19:13:30,836 - #27 nula
+INFO  19:13:30,836 - #12 =
+INFO  19:13:30,836 - #26 0
+INFO  19:13:30,836 - #5 ;
+INFO  19:13:30,837 - #23 const
+INFO  19:13:30,837 - #27 int
+INFO  19:13:30,837 - #27 jedan
+INFO  19:13:30,837 - #12 =
+INFO  19:13:30,837 - #26 1
+INFO  19:13:30,837 - #5 ;
+INFO  19:13:30,838 - #23 const
+INFO  19:13:30,838 - #27 int
+INFO  19:13:30,838 - #27 pet
+INFO  19:13:30,838 - #12 =
+INFO  19:13:30,838 - #26 5
+INFO  19:13:30,838 - #5 ;
+INFO  19:13:30,838 - #23 const
+INFO  19:13:30,838 - #27 bool
+INFO  19:13:30,839 - #27 t
+INFO  19:13:30,839 - #12 =
+INFO  19:13:30,839 - #29 true
+INFO  19:13:30,839 - #5 ;
+INFO  19:13:30,839 - #23 const
+INFO  19:13:30,839 - #27 bool
+INFO  19:13:30,839 - #27 f
+INFO  19:13:30,839 - #12 =
+INFO  19:13:30,840 - #29 false
+INFO  19:13:30,840 - #5 ;
+INFO  19:13:30,840 - #27 int
+INFO  19:13:30,840 - #27 niz
+INFO  19:13:30,840 - #20 [
+INFO  19:13:30,840 - #21 ]
+INFO  19:13:30,840 - #8 ,
+INFO  19:13:30,840 - #27 niz2
+INFO  19:13:30,840 - #20 [
+INFO  19:13:30,840 - #21 ]
+INFO  19:13:30,841 - #8 ,
+INFO  19:13:30,841 - #27 a
+INFO  19:13:30,841 - #8 ,
+INFO  19:13:30,841 - #27 b
+INFO  19:13:30,841 - #5 ;
+INFO  19:13:30,841 - #27 char
+INFO  19:13:30,842 - #27 nizch
+INFO  19:13:30,842 - #20 [
+INFO  19:13:30,842 - #21 ]
+INFO  19:13:30,842 - #5 ;
+INFO  19:13:30,842 - #3 {
+INFO  19:13:30,842 - #27 int
+INFO  19:13:30,843 - #27 bodovi
+INFO  19:13:30,844 - #5 ;
+ERROR 19:13:30,844 - 
+Sintaksna greska na liniji 16
+ERROR 19:13:30,844 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 16
+INFO  19:13:30,857 - Print calls = 0
+ERROR 19:13:30,858 - Parsiranje NIJE uspesno zavrseno!

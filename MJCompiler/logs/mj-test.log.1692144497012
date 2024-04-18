@@ -1,0 +1,99 @@
+INFO  02:07:22,385 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:07:22,433 - #2 program
+INFO  02:07:22,433 - #27 MJProgram
+INFO  02:07:22,433 - #27 int
+INFO  02:07:22,435 - #27 x
+INFO  02:07:22,436 - #5 ;
+INFO  02:07:22,436 - #3 {
+INFO  02:07:22,437 - #13 void
+INFO  02:07:22,437 - #27 main
+INFO  02:07:22,438 - #6 (
+INFO  02:07:22,438 - #7 )
+INFO  02:07:22,438 - #3 {
+INFO  02:07:22,438 - #27 x
+INFO  02:07:22,439 - #12 =
+INFO  02:07:22,439 - #26 4
+INFO  02:07:22,439 - #5 ;
+INFO  02:07:22,440 - #9 print
+INFO  02:07:22,440 - #6 (
+INFO  02:07:22,440 - #27 x
+INFO  02:07:22,440 - #7 )
+INFO  02:07:22,440 - #5 ;
+INFO  02:07:22,440 - #4 }
+INFO  02:07:22,441 - #4 }
+INFO  02:07:22,449 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationL(
+    NoDecl(
+    ) [NoDecl]
+    DeclarationVar(
+      VarDeclarations(
+        Type(
+         int
+        ) [Type]
+        VarOne(
+          VarItemIdent(
+           x
+          ) [VarItemIdent]
+        ) [VarOne]
+      ) [VarDeclarations]
+    ) [DeclarationVar]
+  ) [DeclarationL]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoid(
+       main
+      ) [MethodVoid]
+      NoDecl(
+      ) [NoDecl]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          DesignatorStmt(
+            Assignment(
+              DesignatorIDENT(
+               x
+              ) [DesignatorIDENT]
+              TermExpr(
+                TermFactor(
+                  FactorNUMBER(
+                   4
+                  ) [FactorNUMBER]
+                ) [TermFactor]
+              ) [TermExpr]
+            ) [Assignment]
+          ) [DesignatorStmt]
+        ) [Statements]
+        MatchedStmt(
+          PrintStmt(
+            TermExpr(
+              TermFactor(
+                Var(
+                  DesignatorIDENT(
+                   x
+                  ) [DesignatorIDENT]
+                ) [Var]
+              ) [TermFactor]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  02:07:22,449 - ===================================
+INFO  02:07:22,472 - Deklarisana promenljiva x
+INFO  02:07:22,472 - Obradjuje se funkcija main na liniji 5
+INFO  02:07:34,273 - TIP 0: 1
+INFO  02:07:34,273 - TIP 1: 1  TIP 2: 1
+INFO  02:07:34,273 - Dobri tipovi!
+INFO  02:07:39,769 - Tippppp: 1
+INFO  02:07:39,769 -  Print count calls = 1
+INFO  02:07:39,769 -  Deklarisanih promenljivih ima = 1
+INFO  02:07:39,769 - ===================================
+INFO  02:08:09,154 - Parsiranje uspesno zavrseno!

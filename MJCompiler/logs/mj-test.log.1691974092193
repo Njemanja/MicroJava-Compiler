@@ -1,0 +1,89 @@
+INFO  02:47:24,366 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:47:24,410 - #2 program
+INFO  02:47:24,410 - #28 MJProgram
+INFO  02:47:24,410 - #28 int
+INFO  02:47:24,412 - #28 x
+INFO  02:47:24,413 - #5 ;
+INFO  02:47:24,413 - #28 int
+INFO  02:47:24,413 - #28 x
+INFO  02:47:24,414 - #5 ;
+INFO  02:47:24,414 - #28 char
+INFO  02:47:24,414 - #28 cc
+INFO  02:47:24,414 - #5 ;
+INFO  02:47:24,414 - #28 int
+INFO  02:47:24,414 - #28 a
+INFO  02:47:24,414 - #8 ,
+INFO  02:47:24,414 - #28 b
+INFO  02:47:24,414 - #5 ;
+INFO  02:47:24,415 - #28 int
+INFO  02:47:24,415 - #28 niz
+INFO  02:47:24,415 - #20 [
+INFO  02:47:24,415 - #21 ]
+INFO  02:47:24,415 - #5 ;
+INFO  02:47:24,415 - #3 {
+INFO  02:47:24,416 - #28 int
+INFO  02:47:24,416 - #28 k
+INFO  02:47:24,417 - #6 (
+INFO  02:47:24,418 - #7 )
+INFO  02:47:24,418 - #28 int
+INFO  02:47:24,418 - #28 c
+INFO  02:47:24,418 - #5 ;
+INFO  02:47:24,418 - #3 {
+INFO  02:47:24,418 - #28 c
+INFO  02:47:24,419 - #12 =
+INFO  02:47:24,419 - #27 1
+INFO  02:47:24,419 - #5 ;
+INFO  02:47:24,419 - #10 return
+INFO  02:47:24,420 - #28 c
+INFO  02:47:24,420 - #18 %
+INFO  02:47:24,420 - #27 2
+INFO  02:47:24,421 - #5 ;
+INFO  02:47:24,421 - #4 }
+INFO  02:47:24,421 - #28 int
+INFO  02:47:24,422 - #28 main
+INFO  02:47:24,423 - #6 (
+INFO  02:47:24,423 - #7 )
+INFO  02:47:24,423 - #3 {
+INFO  02:47:24,423 - #28 y
+INFO  02:47:24,423 - #12 =
+INFO  02:47:24,423 - #27 2
+INFO  02:47:24,423 - #5 ;
+INFO  02:47:24,423 - #28 x
+INFO  02:47:24,423 - #12 =
+INFO  02:47:24,423 - #28 y
+INFO  02:47:24,423 - #11 +
+INFO  02:47:24,423 - #27 2
+INFO  02:47:24,424 - #5 ;
+INFO  02:47:24,425 - #10 return
+INFO  02:47:24,425 - #27 0
+INFO  02:47:24,425 - #5 ;
+INFO  02:47:24,425 - #4 }
+INFO  02:47:24,425 - #4 }
+INFO  02:47:24,433 - Deklaracija one
+INFO  02:47:24,433 - Deklarisana promenljiva x
+INFO  02:47:24,433 - Deklaracija VAR-a
+INFO  02:47:24,433 - Deklaracija
+INFO  02:47:24,433 - GRESKA:            Promenljiva x je vec deklarisana!
+INFO  02:47:24,433 - Deklaracija one
+INFO  02:47:24,433 - Deklaracija VAR-a
+INFO  02:47:24,433 - Deklaracija
+INFO  02:47:24,433 - Deklaracija one
+INFO  02:47:24,433 - Deklarisana promenljiva cc
+INFO  02:47:24,434 - Deklaracija VAR-a
+INFO  02:47:24,434 - Deklaracija
+INFO  02:47:24,434 - Deklaracija one
+INFO  02:47:24,434 - Deklaracija one
+INFO  02:47:24,434 - Deklarisana promenljiva a
+INFO  02:47:24,434 - Deklarisana promenljiva b
+INFO  02:47:24,434 - Deklaracija VAR-a
+INFO  02:47:24,434 - Deklaracija
+INFO  02:47:24,434 - Deklaracija one
+INFO  02:47:24,434 - Deklarisana je niz  niz
+INFO  02:47:24,434 - Deklaracija VAR-a
+INFO  02:47:24,434 - Deklaracija
+INFO  02:47:24,434 - Deklaracija one
+INFO  02:47:24,434 - Deklarisana promenljiva c
+INFO  02:47:24,434 - Deklaracija VAR-a
+INFO  02:47:24,434 - Deklaracija
+INFO  02:47:24,435 - Print calls = 0
+INFO  02:47:24,435 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,54 @@
+INFO  17:19:53,515 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:19:53,555 - #2 program
+INFO  17:19:53,555 - #28 MJProgram
+INFO  17:19:53,555 - #28 int
+INFO  17:19:53,556 - #28 a
+INFO  17:19:53,557 - #5 ;
+INFO  17:19:53,557 - #28 int
+INFO  17:19:53,558 - #28 b
+INFO  17:19:53,558 - #5 ;
+INFO  17:19:53,558 - #28 char
+INFO  17:19:53,558 - #28 a
+INFO  17:19:53,558 - #5 ;
+INFO  17:19:53,558 - #3 {
+INFO  17:19:53,558 - #28 int
+INFO  17:19:53,559 - #28 k
+INFO  17:19:53,559 - #6 (
+INFO  17:19:53,560 - #7 )
+INFO  17:19:53,560 - #28 int
+INFO  17:19:53,560 - #28 c
+INFO  17:19:53,560 - #5 ;
+INFO  17:19:53,560 - #3 {
+INFO  17:19:53,560 - #28 c
+INFO  17:19:53,561 - #12 =
+INFO  17:19:53,562 - #27 1
+INFO  17:19:53,562 - #5 ;
+INFO  17:19:53,562 - #10 return
+INFO  17:19:53,562 - #28 c
+INFO  17:19:53,562 - #18 %
+INFO  17:19:53,562 - #27 2
+INFO  17:19:53,564 - #5 ;
+INFO  17:19:53,564 - #4 }
+INFO  17:19:53,564 - #28 int
+INFO  17:19:53,565 - #28 main
+INFO  17:19:53,565 - #6 (
+INFO  17:19:53,565 - #7 )
+INFO  17:19:53,565 - #3 {
+INFO  17:19:53,565 - #28 y
+INFO  17:19:53,565 - #12 =
+INFO  17:19:53,566 - #27 2
+INFO  17:19:53,566 - #5 ;
+INFO  17:19:53,566 - #28 x
+INFO  17:19:53,566 - #12 =
+INFO  17:19:53,566 - #28 y
+INFO  17:19:53,566 - #11 +
+INFO  17:19:53,566 - #27 2
+INFO  17:19:53,567 - #5 ;
+INFO  17:19:53,567 - #10 return
+INFO  17:19:53,568 - #27 0
+INFO  17:19:53,568 - #5 ;
+INFO  17:19:53,568 - #4 }
+INFO  17:19:53,568 - #4 }
+INFO  17:19:53,575 - GRESKA: Promenljiva a je vec deklarisana!
+INFO  17:19:53,575 - Print calls = 0
+ERROR 17:19:53,576 - Parsiranje NIJE uspesno zavrseno!

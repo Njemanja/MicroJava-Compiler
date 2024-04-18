@@ -1,0 +1,66 @@
+INFO  17:35:20,916 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:35:20,964 - #2 program
+INFO  17:35:20,964 - #28 MJProgram
+INFO  17:35:20,964 - #28 int
+INFO  17:35:20,966 - #28 a
+INFO  17:35:20,966 - #5 ;
+INFO  17:35:20,967 - #28 int
+INFO  17:35:20,967 - #28 b
+INFO  17:35:20,967 - #5 ;
+INFO  17:35:20,967 - #28 char
+INFO  17:35:20,967 - #28 nizX
+INFO  17:35:20,967 - #20 [
+INFO  17:35:20,967 - #21 ]
+INFO  17:35:20,968 - #5 ;
+INFO  17:35:20,968 - #24 const
+INFO  17:35:20,968 - #28 int
+INFO  17:35:20,968 - #28 jeda
+INFO  17:35:20,968 - #12 =
+INFO  17:35:20,968 - #29 1
+INFO  17:35:20,968 - #5 ;
+INFO  17:35:20,968 - #3 {
+INFO  17:35:20,969 - #28 int
+INFO  17:35:20,970 - #28 k
+INFO  17:35:20,970 - #6 (
+INFO  17:35:20,971 - #7 )
+INFO  17:35:20,971 - #28 int
+INFO  17:35:20,971 - #28 c
+INFO  17:35:20,971 - #5 ;
+INFO  17:35:20,971 - #3 {
+INFO  17:35:20,971 - #28 c
+INFO  17:35:20,972 - #12 =
+INFO  17:35:20,972 - #27 1
+INFO  17:35:20,972 - #5 ;
+INFO  17:35:20,973 - #10 return
+INFO  17:35:20,973 - #28 c
+INFO  17:35:20,973 - #18 %
+INFO  17:35:20,973 - #27 2
+INFO  17:35:20,974 - #5 ;
+INFO  17:35:20,974 - #4 }
+INFO  17:35:20,975 - #28 int
+INFO  17:35:20,976 - #28 main
+INFO  17:35:20,976 - #6 (
+INFO  17:35:20,976 - #7 )
+INFO  17:35:20,976 - #3 {
+INFO  17:35:20,976 - #28 y
+INFO  17:35:20,976 - #12 =
+INFO  17:35:20,976 - #27 2
+INFO  17:35:20,976 - #5 ;
+INFO  17:35:20,976 - #28 x
+INFO  17:35:20,976 - #12 =
+INFO  17:35:20,976 - #28 y
+INFO  17:35:20,976 - #11 +
+INFO  17:35:20,977 - #27 2
+INFO  17:35:20,978 - #5 ;
+INFO  17:35:20,978 - #10 return
+INFO  17:35:20,978 - #27 0
+INFO  17:35:20,978 - #5 ;
+INFO  17:35:20,978 - #4 }
+INFO  17:35:20,978 - #4 }
+INFO  17:35:20,985 - Deklarisana promenljiva a
+INFO  17:35:20,985 - Deklarisana promenljiva b
+INFO  17:35:20,985 - Deklarisan je niz nizX
+INFO  17:35:20,986 - GRESKA: nekompatiblni tipovi char i rs.etf.pp1.symboltable.concepts.Struct@3e77a1ed
+INFO  17:35:20,986 - Deklarisana promenljiva c
+INFO  17:35:20,986 - Print calls = 0
+INFO  17:35:20,986 - Parsiranje uspesno zavrseno!

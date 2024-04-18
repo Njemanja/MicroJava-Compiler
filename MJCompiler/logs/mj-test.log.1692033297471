@@ -1,0 +1,77 @@
+INFO  19:14:06,247 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:14:06,304 - #2 program
+INFO  19:14:06,304 - #27 MJProgram
+INFO  19:14:06,304 - #23 const
+INFO  19:14:06,306 - #27 char
+INFO  19:14:06,306 - #27 c1
+INFO  19:14:06,307 - #12 =
+INFO  19:14:06,307 - #28 c
+INFO  19:14:06,308 - #5 ;
+INFO  19:14:06,308 - #23 const
+INFO  19:14:06,308 - #27 int
+INFO  19:14:06,308 - #27 nula
+INFO  19:14:06,309 - #12 =
+INFO  19:14:06,309 - #26 0
+INFO  19:14:06,309 - #5 ;
+INFO  19:14:06,309 - #23 const
+INFO  19:14:06,309 - #27 int
+INFO  19:14:06,309 - #27 jedan
+INFO  19:14:06,309 - #12 =
+INFO  19:14:06,310 - #26 1
+INFO  19:14:06,310 - #5 ;
+INFO  19:14:06,310 - #23 const
+INFO  19:14:06,310 - #27 int
+INFO  19:14:06,310 - #27 pet
+INFO  19:14:06,311 - #12 =
+INFO  19:14:06,311 - #26 5
+INFO  19:14:06,311 - #5 ;
+INFO  19:14:06,311 - #23 const
+INFO  19:14:06,311 - #27 bool
+INFO  19:14:06,311 - #27 t
+INFO  19:14:06,311 - #12 =
+INFO  19:14:06,311 - #29 true
+INFO  19:14:06,311 - #5 ;
+INFO  19:14:06,312 - #23 const
+INFO  19:14:06,312 - #27 bool
+INFO  19:14:06,312 - #27 f
+INFO  19:14:06,312 - #12 =
+INFO  19:14:06,312 - #29 false
+INFO  19:14:06,312 - #5 ;
+INFO  19:14:06,312 - #27 int
+INFO  19:14:06,312 - #27 niz
+INFO  19:14:06,312 - #20 [
+INFO  19:14:06,312 - #21 ]
+INFO  19:14:06,313 - #8 ,
+INFO  19:14:06,313 - #27 niz2
+INFO  19:14:06,313 - #20 [
+INFO  19:14:06,313 - #21 ]
+INFO  19:14:06,313 - #8 ,
+INFO  19:14:06,313 - #27 a
+INFO  19:14:06,313 - #8 ,
+INFO  19:14:06,313 - #27 b
+INFO  19:14:06,313 - #5 ;
+INFO  19:14:06,314 - #27 char
+INFO  19:14:06,314 - #27 nizch
+INFO  19:14:06,314 - #20 [
+INFO  19:14:06,314 - #21 ]
+INFO  19:14:06,314 - #5 ;
+INFO  19:14:06,314 - #3 {
+INFO  19:14:06,315 - #13 void
+ERROR 19:14:06,315 - 
+Sintaksna greska na liniji 15
+ERROR 19:14:06,315 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 15
+INFO  19:14:06,326 - Deklarisana je konsanta char c1 = 99 na liniji 2
+INFO  19:14:06,326 - Deklarisana je konsanta int nula = 0
+INFO  19:14:06,326 - Deklarisana je konsanta int jedan = 1
+INFO  19:14:06,327 - Deklarisana je konsanta int pet = 5
+ERROR 19:14:06,327 - Nije pronadjen tip bool u tabeli simbola
+INFO  19:14:06,327 - GRESKA: nekompatiblni tipovi boolean i 1
+ERROR 19:14:06,327 - Nije pronadjen tip bool u tabeli simbola
+INFO  19:14:06,327 - GRESKA: nekompatiblni tipovi boolean i 0
+INFO  19:14:06,327 - Deklarisan je niz niz
+INFO  19:14:06,327 - Deklarisan je niz niz2
+INFO  19:14:06,327 - Deklarisana promenljiva a
+INFO  19:14:06,328 - Deklarisana promenljiva b
+INFO  19:14:06,328 - Deklarisan je niz nizch
+INFO  19:14:06,328 - Print calls = 0
+ERROR 19:14:06,329 - Parsiranje NIJE uspesno zavrseno!

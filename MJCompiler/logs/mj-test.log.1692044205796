@@ -1,0 +1,47 @@
+INFO  22:15:56,196 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:15:56,257 - #2 program
+INFO  22:15:56,257 - #27 MJProgram
+INFO  22:15:56,257 - #23 const
+INFO  22:15:56,259 - #27 int
+INFO  22:15:56,259 - #27 nula
+INFO  22:15:56,259 - #12 =
+INFO  22:15:56,260 - #26 0
+INFO  22:15:56,260 - #5 ;
+INFO  22:15:56,260 - #23 const
+INFO  22:15:56,260 - #27 int
+INFO  22:15:56,260 - #27 jedan
+INFO  22:15:56,261 - #12 =
+INFO  22:15:56,261 - #26 1
+INFO  22:15:56,261 - #5 ;
+INFO  22:15:56,261 - #23 const
+INFO  22:15:56,261 - #27 int
+INFO  22:15:56,261 - #27 pet
+INFO  22:15:56,261 - #12 =
+INFO  22:15:56,261 - #26 5
+INFO  22:15:56,261 - #5 ;
+INFO  22:15:56,262 - #27 int
+INFO  22:15:56,262 - #27 niz
+INFO  22:15:56,262 - #20 [
+INFO  22:15:56,262 - #21 ]
+INFO  22:15:56,262 - #8 ,
+INFO  22:15:56,262 - #27 niz2
+INFO  22:15:56,263 - #20 [
+INFO  22:15:56,263 - #21 ]
+INFO  22:15:56,263 - #8 ,
+INFO  22:15:56,263 - #27 a
+INFO  22:15:56,263 - #8 ,
+INFO  22:15:56,263 - #27 b
+INFO  22:15:56,263 - #5 ;
+INFO  22:15:56,264 - #27 char
+INFO  22:15:56,264 - #27 nizch
+INFO  22:15:56,264 - #20 [
+INFO  22:15:56,264 - #21 ]
+INFO  22:15:56,264 - #5 ;
+INFO  22:15:56,264 - #3 {
+INFO  22:15:56,264 - #13 void
+INFO  22:15:56,265 - #27 main
+INFO  22:15:56,265 - #6 (
+INFO  22:15:56,266 - #27 int
+ERROR 22:15:56,266 - 
+Sintaksna greska na liniji 10
+ERROR 22:15:56,266 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 10

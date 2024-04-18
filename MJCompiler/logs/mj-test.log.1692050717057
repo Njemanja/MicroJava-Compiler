@@ -1,0 +1,107 @@
+INFO  00:00:28,258 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:00:28,295 - #2 program
+INFO  00:00:28,295 - #27 MJProgram
+INFO  00:00:28,295 - #23 const
+INFO  00:00:28,297 - #27 int
+INFO  00:00:28,297 - #27 nula
+INFO  00:00:28,298 - #12 =
+INFO  00:00:28,298 - #26 0
+INFO  00:00:28,298 - #5 ;
+INFO  00:00:28,298 - #23 const
+INFO  00:00:28,299 - #27 int
+INFO  00:00:28,299 - #27 jedan
+INFO  00:00:28,299 - #12 =
+INFO  00:00:28,299 - #26 1
+INFO  00:00:28,299 - #5 ;
+INFO  00:00:28,299 - #23 const
+INFO  00:00:28,299 - #27 int
+INFO  00:00:28,299 - #27 pet
+INFO  00:00:28,299 - #12 =
+INFO  00:00:28,300 - #26 5
+INFO  00:00:28,300 - #5 ;
+INFO  00:00:28,300 - #27 int
+INFO  00:00:28,300 - #27 niz
+INFO  00:00:28,300 - #20 [
+INFO  00:00:28,300 - #21 ]
+INFO  00:00:28,300 - #8 ,
+INFO  00:00:28,301 - #27 niz2
+INFO  00:00:28,301 - #20 [
+INFO  00:00:28,301 - #21 ]
+INFO  00:00:28,301 - #8 ,
+INFO  00:00:28,301 - #27 a
+INFO  00:00:28,301 - #8 ,
+INFO  00:00:28,301 - #27 b
+INFO  00:00:28,301 - #8 ,
+INFO  00:00:28,301 - #27 x
+INFO  00:00:28,302 - #8 ,
+INFO  00:00:28,302 - #27 y
+INFO  00:00:28,302 - #5 ;
+INFO  00:00:28,302 - #27 char
+INFO  00:00:28,302 - #27 nizch
+INFO  00:00:28,303 - #20 [
+INFO  00:00:28,303 - #21 ]
+INFO  00:00:28,303 - #5 ;
+INFO  00:00:28,303 - #3 {
+INFO  00:00:28,303 - #13 void
+INFO  00:00:28,304 - #27 main
+INFO  00:00:28,304 - #6 (
+INFO  00:00:28,304 - #7 )
+INFO  00:00:28,304 - #27 int
+INFO  00:00:28,304 - #27 bodovi
+INFO  00:00:28,305 - #5 ;
+INFO  00:00:28,305 - #27 bool
+INFO  00:00:28,305 - #27 bt
+INFO  00:00:28,305 - #5 ;
+INFO  00:00:28,305 - #3 {
+INFO  00:00:28,305 - #27 niz
+INFO  00:00:28,306 - #12 =
+INFO  00:00:28,306 - #32 new
+INFO  00:00:28,306 - #27 int
+INFO  00:00:28,306 - #20 [
+INFO  00:00:28,306 - #26 3
+INFO  00:00:28,307 - #21 ]
+INFO  00:00:28,307 - #5 ;
+INFO  00:00:28,307 - #27 y
+INFO  00:00:28,307 - #12 =
+INFO  00:00:28,308 - #26 3
+INFO  00:00:28,308 - #5 ;
+INFO  00:00:28,308 - #9 print
+INFO  00:00:28,308 - #6 (
+INFO  00:00:28,308 - #26 1
+INFO  00:00:28,308 - #7 )
+INFO  00:00:28,308 - #5 ;
+INFO  00:00:28,308 - #27 x
+INFO  00:00:28,308 - #12 =
+INFO  00:00:28,308 - #27 y
+INFO  00:00:28,308 - #11 +
+INFO  00:00:28,308 - #26 5
+INFO  00:00:28,310 - #5 ;
+INFO  00:00:28,310 - #27 x
+INFO  00:00:28,310 - #12 =
+INFO  00:00:28,310 - #19 -
+INFO  00:00:28,310 - #26 5
+INFO  00:00:28,310 - #5 ;
+INFO  00:00:28,310 - #9 print
+INFO  00:00:28,311 - #6 (
+INFO  00:00:28,311 - #26 2
+INFO  00:00:28,311 - #7 )
+INFO  00:00:28,311 - #5 ;
+INFO  00:00:28,311 - #4 }
+INFO  00:00:28,311 - #4 }
+INFO  00:00:28,320 - Deklarisana je konsanta int nula = 0
+INFO  00:00:28,320 - Deklarisana je konsanta int jedan = 1
+INFO  00:00:28,321 - Deklarisana je konsanta int pet = 5
+INFO  00:00:28,321 - Deklarisan je niz niz
+INFO  00:00:28,321 - Deklarisan je niz niz2
+INFO  00:00:28,321 - Deklarisana promenljiva a
+INFO  00:00:28,321 - Deklarisana promenljiva b
+INFO  00:00:28,321 - Deklarisana promenljiva x
+INFO  00:00:28,321 - Deklarisana promenljiva y
+INFO  00:00:28,321 - Deklarisan je niz nizch
+INFO  00:00:28,321 - Obradjuje se funkcija main na liniji 10
+INFO  00:00:28,321 - Deklarisana promenljiva bodovi
+INFO  00:00:28,321 - Deklarisana promenljiva bt
+INFO  00:00:28,322 - Deklarisana je niz (uz pomoc NEW) na liniji 15
+INFO  00:00:28,322 - Print calls = 2
+INFO  00:00:28,322 -  Deklarisanih promenljivih ima = 10
+INFO  00:00:28,323 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,53 @@
+INFO  03:35:17,960 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  03:35:18,031 - #2 program
+INFO  03:35:18,032 - #28 MJProgram
+INFO  03:35:18,032 - #28 int
+INFO  03:35:18,035 - #28 a
+INFO  03:35:18,036 - #5 ;
+INFO  03:35:18,036 - #28 int
+INFO  03:35:18,037 - #28 b
+INFO  03:35:18,037 - #5 ;
+INFO  03:35:18,037 - #3 {
+INFO  03:35:18,037 - #28 int
+INFO  03:35:18,039 - #28 k
+INFO  03:35:18,039 - #6 (
+INFO  03:35:18,041 - #7 )
+INFO  03:35:18,041 - #28 int
+INFO  03:35:18,041 - #28 c
+INFO  03:35:18,041 - #5 ;
+INFO  03:35:18,041 - #3 {
+INFO  03:35:18,042 - #28 c
+INFO  03:35:18,043 - #12 =
+INFO  03:35:18,043 - #27 1
+INFO  03:35:18,043 - #5 ;
+INFO  03:35:18,044 - #10 return
+INFO  03:35:18,045 - #28 c
+INFO  03:35:18,045 - #18 %
+INFO  03:35:18,045 - #27 2
+INFO  03:35:18,047 - #5 ;
+INFO  03:35:18,047 - #4 }
+INFO  03:35:18,047 - #28 int
+INFO  03:35:18,049 - #28 main
+INFO  03:35:18,049 - #6 (
+INFO  03:35:18,049 - #7 )
+INFO  03:35:18,049 - #3 {
+INFO  03:35:18,049 - #28 y
+INFO  03:35:18,049 - #12 =
+INFO  03:35:18,049 - #27 2
+INFO  03:35:18,050 - #5 ;
+INFO  03:35:18,050 - #28 x
+INFO  03:35:18,050 - #12 =
+INFO  03:35:18,050 - #28 y
+INFO  03:35:18,050 - #11 +
+INFO  03:35:18,050 - #27 2
+INFO  03:35:18,052 - #5 ;
+INFO  03:35:18,052 - #10 return
+INFO  03:35:18,053 - #27 0
+INFO  03:35:18,053 - #5 ;
+INFO  03:35:18,053 - #4 }
+INFO  03:35:18,053 - #4 }
+INFO  03:35:18,065 - Tip: rs.etf.pp1.symboltable.concepts.Struct@4df828d7 a
+INFO  03:35:18,065 - Tip: rs.etf.pp1.symboltable.concepts.Struct@4df828d7 b
+INFO  03:35:18,065 - Tip: rs.etf.pp1.symboltable.concepts.Struct@4df828d7 c
+INFO  03:35:18,066 - Print calls = 0
+INFO  03:35:18,067 - Parsiranje uspesno zavrseno!

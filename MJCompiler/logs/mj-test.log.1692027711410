@@ -1,0 +1,73 @@
+INFO  17:40:03,061 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:40:03,104 - #2 program
+INFO  17:40:03,104 - #28 MJProgram
+INFO  17:40:03,104 - #28 int
+INFO  17:40:03,106 - #28 a
+INFO  17:40:03,107 - #5 ;
+INFO  17:40:03,107 - #28 int
+INFO  17:40:03,107 - #28 b
+INFO  17:40:03,107 - #5 ;
+INFO  17:40:03,107 - #28 char
+INFO  17:40:03,108 - #28 nizX
+INFO  17:40:03,108 - #20 [
+INFO  17:40:03,108 - #21 ]
+INFO  17:40:03,108 - #5 ;
+INFO  17:40:03,108 - #24 const
+INFO  17:40:03,108 - #28 char
+INFO  17:40:03,108 - #28 jedan
+INFO  17:40:03,108 - #12 =
+INFO  17:40:03,108 - #29 1
+INFO  17:40:03,108 - #5 ;
+INFO  17:40:03,109 - #24 const
+INFO  17:40:03,109 - #28 int
+INFO  17:40:03,109 - #28 x
+INFO  17:40:03,109 - #12 =
+INFO  17:40:03,109 - #27 1
+INFO  17:40:03,109 - #5 ;
+INFO  17:40:03,109 - #3 {
+INFO  17:40:03,110 - #28 int
+INFO  17:40:03,110 - #28 k
+INFO  17:40:03,110 - #6 (
+INFO  17:40:03,111 - #7 )
+INFO  17:40:03,111 - #28 int
+INFO  17:40:03,111 - #28 c
+INFO  17:40:03,111 - #5 ;
+INFO  17:40:03,111 - #3 {
+INFO  17:40:03,112 - #28 c
+INFO  17:40:03,112 - #12 =
+INFO  17:40:03,112 - #27 1
+INFO  17:40:03,113 - #5 ;
+INFO  17:40:03,113 - #10 return
+INFO  17:40:03,113 - #28 c
+INFO  17:40:03,113 - #18 %
+INFO  17:40:03,113 - #27 2
+INFO  17:40:03,115 - #5 ;
+INFO  17:40:03,115 - #4 }
+INFO  17:40:03,115 - #28 int
+INFO  17:40:03,116 - #28 main
+INFO  17:40:03,116 - #6 (
+INFO  17:40:03,116 - #7 )
+INFO  17:40:03,116 - #3 {
+INFO  17:40:03,116 - #28 y
+INFO  17:40:03,116 - #12 =
+INFO  17:40:03,116 - #27 2
+INFO  17:40:03,116 - #5 ;
+INFO  17:40:03,116 - #28 x
+INFO  17:40:03,117 - #12 =
+INFO  17:40:03,117 - #28 y
+INFO  17:40:03,117 - #11 +
+INFO  17:40:03,117 - #27 2
+INFO  17:40:03,118 - #5 ;
+INFO  17:40:03,118 - #10 return
+INFO  17:40:03,118 - #27 0
+INFO  17:40:03,118 - #5 ;
+INFO  17:40:03,118 - #4 }
+INFO  17:40:03,119 - #4 }
+INFO  17:40:03,127 - Deklarisana promenljiva a
+INFO  17:40:03,127 - Deklarisana promenljiva b
+INFO  17:40:03,127 - Deklarisan je niz nizX
+INFO  17:40:03,127 - Deklarisana je konsanta char jedan = 49
+INFO  17:40:03,127 - Deklarisana je konsanta int x = 1
+INFO  17:40:03,127 - Deklarisana promenljiva c
+INFO  17:40:03,127 - Print calls = 0
+INFO  17:40:03,128 - Parsiranje uspesno zavrseno!

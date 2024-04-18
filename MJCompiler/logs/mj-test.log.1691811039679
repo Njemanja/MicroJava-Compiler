@@ -1,0 +1,9 @@
+INFO  05:30:15,539 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\test301.mj
+INFO  05:30:15,599 - #2 program
+INFO  05:30:15,599 - #25 test301
+INFO  05:30:15,600 - #25 const
+INFO  05:30:15,602 - #25 int
+INFO  05:30:15,603 - #25 nula
+ERROR 05:30:15,603 - 
+Sintaksna greska na liniji 5
+ERROR 05:30:15,604 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 5

@@ -1,0 +1,30 @@
+INFO  00:05:58,615 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:05:58,662 - #2 program
+INFO  00:05:58,662 - #27 MJProgram
+INFO  00:05:58,662 - #23 const
+INFO  00:05:58,663 - #27 int
+INFO  00:05:58,664 - #27 nula
+INFO  00:05:58,664 - #12 =
+INFO  00:05:58,664 - #26 0
+INFO  00:05:58,664 - #5 ;
+INFO  00:05:58,665 - #23 const
+INFO  00:05:58,665 - #27 int
+INFO  00:05:58,666 - #27 jedan
+INFO  00:05:58,666 - #12 =
+INFO  00:05:58,666 - #26 1
+INFO  00:05:58,666 - #5 ;
+INFO  00:05:58,666 - #23 const
+INFO  00:05:58,666 - #27 int
+INFO  00:05:58,666 - #27 pet
+INFO  00:05:58,666 - #12 =
+INFO  00:05:58,667 - #26 5
+INFO  00:05:58,667 - #5 ;
+INFO  00:05:58,667 - #27 char
+INFO  00:05:58,667 - #27 s1
+INFO  00:05:58,667 - #12 =
+ERROR 00:05:58,667 - 
+Sintaksna greska na liniji 5
+ERROR 00:05:58,667 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 5
+INFO  00:05:58,675 - Print calls = 0
+INFO  00:05:58,675 -  Deklarisanih promenljivih ima = 0
+ERROR 00:05:58,675 - Parsiranje NIJE uspesno zavrseno!

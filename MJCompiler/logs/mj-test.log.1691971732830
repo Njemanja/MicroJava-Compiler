@@ -1,0 +1,65 @@
+INFO  23:40:01,219 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:40:01,434 - #2 program
+INFO  23:40:01,435 - #28 MJProgram
+INFO  23:40:01,435 - #28 int
+INFO  23:40:01,441 - #28 x
+INFO  23:40:01,444 - #5 ;
+INFO  23:40:01,444 - #28 int
+INFO  23:40:01,445 - #28 y
+INFO  23:40:01,445 - #5 ;
+INFO  23:40:01,445 - #3 {
+INFO  23:40:01,445 - #28 int
+INFO  23:40:01,448 - #28 k
+INFO  23:40:01,448 - #6 (
+INFO  23:40:01,451 - #7 )
+INFO  23:40:01,452 - #28 int
+INFO  23:40:01,452 - #28 c
+INFO  23:40:01,452 - #5 ;
+INFO  23:40:01,452 - #3 {
+INFO  23:40:01,452 - #28 c
+INFO  23:40:01,455 - #12 =
+INFO  23:40:01,456 - #27 1
+INFO  23:40:01,456 - #5 ;
+INFO  23:40:01,457 - #10 return
+INFO  23:40:01,457 - #28 c
+INFO  23:40:01,457 - #18 %
+INFO  23:40:01,457 - #27 2
+INFO  23:40:01,462 - #5 ;
+INFO  23:40:01,463 - #4 }
+INFO  23:40:01,463 - #28 int
+INFO  23:40:01,466 - #28 main
+INFO  23:40:01,466 - #6 (
+INFO  23:40:01,466 - #7 )
+INFO  23:40:01,466 - #3 {
+INFO  23:40:01,466 - #28 y
+INFO  23:40:01,467 - #12 =
+INFO  23:40:01,467 - #27 2
+INFO  23:40:01,467 - #5 ;
+INFO  23:40:01,467 - #28 x
+INFO  23:40:01,467 - #12 =
+INFO  23:40:01,467 - #28 y
+INFO  23:40:01,467 - #11 +
+INFO  23:40:01,467 - #27 2
+INFO  23:40:01,473 - #5 ;
+INFO  23:40:01,473 - #10 return
+INFO  23:40:01,473 - #27 0
+INFO  23:40:01,473 - #5 ;
+INFO  23:40:01,473 - #4 }
+INFO  23:40:01,473 - #4 }
+INFO  23:40:01,485 - Deklarisana promenljiva x
+INFO  23:40:01,485 - Deklaracija one
+INFO  23:40:01,485 - Deklarisana VarDeclList 
+INFO  23:40:01,485 - Deklaracija VAR-a
+INFO  23:40:01,485 - Deklaracija
+INFO  23:40:01,485 - Deklarisana promenljiva y
+INFO  23:40:01,485 - Deklaracija one
+INFO  23:40:01,485 - Deklarisana VarDeclList 
+INFO  23:40:01,485 - Deklaracija VAR-a
+INFO  23:40:01,485 - Deklaracija
+INFO  23:40:01,486 - Deklarisana promenljiva c
+INFO  23:40:01,486 - Deklaracija one
+INFO  23:40:01,486 - Deklarisana VarDeclList 
+INFO  23:40:01,486 - Deklaracija VAR-a
+INFO  23:40:01,486 - Deklaracija
+INFO  23:40:01,486 - Print calls = 0
+INFO  23:40:01,487 - Parsiranje uspesno zavrseno!

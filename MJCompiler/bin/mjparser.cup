@@ -1,0 +1,287 @@
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import org.apache.log4j.*;
+
+// import java.io.*;
+import rs.ac.bg.etf.pp1.ast.*;
+
+
+parser code {:
+	
+	boolean errorDetected = false;
+	
+	Logger log = Logger.getLogger(getClass());
+   
+   
+    // slede redefinisani metodi za prijavu gresaka radi izmene teksta poruke
+     
+    public void report_fatal_error(String message, Object info) throws java.lang.Exception {
+      done_parsing();
+      report_error(message, info);
+    }
+  
+    public void syntax_error(Symbol cur_token) {
+        report_error("\nSintaksna greska", cur_token);
+    }
+  
+    public void unrecovered_syntax_error(Symbol cur_token) throws java.lang.Exception {
+        report_fatal_error("Fatalna greska, parsiranje se ne moze nastaviti", cur_token);
+    }
+
+    public void report_error(String message, Object info) {
+    	errorDetected = true;
+    	StringBuilder msg = new StringBuilder(message); 
+    	if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left);
+        log.error(msg.toString());
+    }
+    
+    public void report_info(String message, Object info) {
+    	StringBuilder msg = new StringBuilder(message); 
+    	if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left);
+        log.info(msg.toString());
+    }
+    
+:}
+
+scan with {:
+	Symbol s = this.getScanner().next_token();
+	if (s != null && s.value != null) 
+		log.info(s.toString() + " " + s.value.toString());
+	return s;
+:}
+
+
+terminal PROG, LBRACE, RBRACE, SEMI, LPAREN, RPAREN, COMMA, PRINT, RETURN, PLUS, EQUAL, VOID;
+terminal MUL, INC, DEC, DIV, MOD, MINUS, LBRACKET, RBRACKET, READ, CONST, DOT, FINDANY;
+terminal Integer NUMBER ;
+terminal String IDENT ;
+terminal Character CHAR;
+terminal Boolean BOOL;
+terminal IF, ELSE, NEW;
+
+nonterminal MethodDeclList, VarDecl, VarItem;
+nonterminal FormalParamList, FormalParamDecl, FormPars, ActualPars, ActualParamList; 
+nonterminal StatementList, Statement, Addop;
+nonterminal Unmatched, Matched, PrintConst;
+
+
+nonterminal Mulop, DesignatorStatement, Declaration, DeclarationList;
+nonterminal ConstDeclList, ConstDecl;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj Program, ProgName, Designator, MethodDecl, MethodTypeName; 
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Type, Term, Expr, Factor, VarDeclList; 
+
+
+
+
+
+
+/*------------------------------------Program--------------------------------------------*/
+
+Program ::= (Program) PROG ProgName:p DeclarationList LBRACE MethodDeclList RBRACE 
+;
+
+ProgName ::= (ProgName) IDENT:pName 
+;
+
+
+/*------------------------------------DeklaracijaVar--------------------------------------------*/
+
+
+
+DeclarationList ::= (DeclarationL) DeclarationList Declaration
+					|
+					(NoDecl)/* epsilon */ ;
+
+Declaration ::= (DeclarationVar) VarDeclList
+				|  (DeclarationConst) ConstDeclList
+;
+
+
+
+
+
+VarDeclList ::= (VarDeclarations) Type:varType  VarDecl SEMI 
+;
+				
+VarDecl ::= (VarMul) VarItem:item COMMA VarDecl
+			| 
+			(VarOne) VarItem:item
+;
+
+
+VarItem ::= (VarItemIdent) IDENT:varName
+			| (VarItemArr) IDENT:varName LBRACKET RBRACKET
+			
+			
+;
+
+
+/*------------------------------------CONST--------------------------------------------*/
+
+
+ConstDeclList ::= (ConstDeclarations) CONST Type:varType ConstDecl SEMI 
+;
+				
+ConstDecl ::= (ConstDeclNumber) IDENT:typeName EQUAL NUMBER 
+			| (ConstDeclChar) IDENT:typeName EQUAL CHAR 
+			| (ConstDeclBool) IDENT:typeName EQUAL BOOL:b 
+
+;
+
+Type ::= (Type) IDENT:typeName 
+;
+
+
+
+
+/* ------------------------- Metode-------------------------------------------- */
+
+MethodDeclList ::= (MethodDeclarations) MethodDeclList MethodDecl
+					|
+				(NoMethodDecl) /* epsilon */
+					;
+
+MethodDecl ::= (MethodDecl) MethodTypeName LPAREN RPAREN DeclarationList LBRACE StatementList RBRACE 
+			   ;
+
+MethodTypeName ::=  (MethodVoid) VOID IDENT:methName
+; 
+
+
+
+
+
+
+
+/* ------------------------- Parametri ---------------------------------------- */
+
+
+FormPars ::= (FormParams) FormalParamList | (NoFormParam) /* epsilon */ ;
+
+FormalParamList ::= (FormalParamDecls) FormalParamList COMMA FormalParamDecl
+					|
+					(SingleFormalParamDecl) FormalParamDecl
+					;
+					
+FormalParamDecl ::= (FormalParamDecl) Type IDENT ;
+
+
+
+Unmatched ::= (UnmatchedIf) IF Expr Statement | (UnmatchedIfElse) IF Expr Matched ELSE Unmatched
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------STATEMENTS---------------------------------------------*/
+
+
+
+StatementList ::= (Statements) StatementList Statement 
+					|
+				  (NoStmt) /* epsilon */
+				  ;
+
+Statement ::= (DesignatorStmt) DesignatorStatement 	| (MatchedStmt) Matched
+			
+					     
+;
+
+
+	
+			
+				  
+Matched ::=   (StatementRead) READ LPAREN Designator RPAREN SEMI
+			  |
+			  (StatementFindAll) Designator EQUAL Designator DOT FINDANY LPAREN Expr:e RPAREN SEMI
+			  |
+			  (PrintStmt) PRINT LPAREN Expr PrintConst  RPAREN SEMI 
+			
+		 
+			  ;
+
+PrintConst ::=  (PrintCnst) COMMA NUMBER
+				| (NoConst) /*epsilon*/
+;
+
+DesignatorStatement ::=  (Assignment) Designator:dest EQUAL Expr:e SEMI
+						 |
+						 			 
+					     (DesignatorINC) Designator INC SEMI
+					     | 
+					     (DesignatorDEC) Designator DEC SEMI
+ ;
+
+	
+	
+			  
+Expr ::=  (AddExpr) Expr:te Addop Term:t
+		  |
+		  (TermExprMinus) MINUS Term:t  
+		  |
+		 
+		  (TermExpr) Term:t
+		  
+		 ;
+
+Term ::= (TermFactor) Factor:t 
+		 | (TermMulop) Term Mulop Factor:t
+;
+
+
+
+/*------------------------------FACTOR---------------------------------------------*/
+
+Factor ::= (FactorNUMBER) NUMBER
+			|
+			(FactorChar) CHAR
+			|
+			(FactorExpr) LPAREN Expr RPAREN
+			|
+			(FactorBOOL) BOOL
+			|
+			(FactorNEW) NEW Type LBRACKET Expr RBRACKET
+			|
+		   (Var) Designator:d
+			
+		   ;
+
+
+/*------------------------------DESIGNATOR---------------------------------------------*/
+
+
+Designator ::= (DesignatorIDENT) IDENT:name
+				| (DesignatorExpr)  IDENT:name LBRACKET Expr:e RBRACKET
+			   
+;
+
+
+
+
+
+Addop ::= (AddopPlus) PLUS
+		| (AddopMinus) MINUS ;
+
+Mulop ::= (MulopMUL) MUL
+		| (MulopDIV) DIV
+		| (MulopMOD) MOD ;

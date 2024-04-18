@@ -1,0 +1,20 @@
+INFO  19:53:32,206 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\mojtest.mj
+INFO  19:53:32,219 - #2 program
+INFO  19:53:32,219 - #26 test301
+INFO  19:53:32,219 - #26 int
+INFO  19:53:32,219 - #26 a
+INFO  19:53:32,220 - #8 ,
+INFO  19:53:32,220 - #26 b
+INFO  19:53:32,220 - #5 ;
+INFO  19:53:32,220 - #3 {
+INFO  19:53:32,220 - #13 void
+INFO  19:53:32,220 - #26 main
+INFO  19:53:32,220 - #6 (
+INFO  19:53:32,221 - #7 )
+INFO  19:53:32,221 - #3 {
+INFO  19:53:32,221 - #26 bodovi
+INFO  19:53:32,221 - #12 =
+INFO  19:53:32,221 - #25 0
+INFO  19:53:32,221 - #5 ;
+INFO  19:53:32,221 - #4 }
+INFO  19:53:32,222 - #4 }

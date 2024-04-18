@@ -1,0 +1,134 @@
+INFO  22:45:55,857 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:45:55,920 - #2 program
+INFO  22:45:55,920 - #27 MJProgram
+INFO  22:45:55,920 - #23 const
+INFO  22:45:55,922 - #27 int
+INFO  22:45:55,922 - #27 nula
+INFO  22:45:55,924 - #12 =
+INFO  22:45:55,924 - #26 0
+INFO  22:45:55,924 - #5 ;
+INFO  22:45:55,924 - #23 const
+INFO  22:45:55,925 - #27 int
+INFO  22:45:55,925 - #27 jedan
+INFO  22:45:55,925 - #12 =
+INFO  22:45:55,925 - #26 1
+INFO  22:45:55,926 - #5 ;
+INFO  22:45:55,926 - #23 const
+INFO  22:45:55,926 - #27 int
+INFO  22:45:55,926 - #27 pet
+INFO  22:45:55,927 - #12 =
+INFO  22:45:55,927 - #26 5
+INFO  22:45:55,927 - #5 ;
+INFO  22:45:55,927 - #23 const
+INFO  22:45:55,928 - #27 char
+INFO  22:45:55,928 - #27 pet1
+INFO  22:45:55,928 - #12 =
+INFO  22:45:55,928 - #28 c
+INFO  22:45:55,928 - #5 ;
+INFO  22:45:55,929 - #27 int
+INFO  22:45:55,929 - #27 niz
+INFO  22:45:55,929 - #20 [
+INFO  22:45:55,929 - #21 ]
+INFO  22:45:55,929 - #8 ,
+INFO  22:45:55,929 - #27 niz2
+INFO  22:45:55,929 - #20 [
+INFO  22:45:55,930 - #21 ]
+INFO  22:45:55,930 - #8 ,
+INFO  22:45:55,930 - #27 a
+INFO  22:45:55,930 - #8 ,
+INFO  22:45:55,930 - #27 b
+INFO  22:45:55,930 - #5 ;
+INFO  22:45:55,931 - #27 char
+INFO  22:45:55,931 - #27 nizch
+INFO  22:45:55,931 - #20 [
+INFO  22:45:55,932 - #21 ]
+INFO  22:45:55,932 - #8 ,
+INFO  22:45:55,932 - #27 c
+INFO  22:45:55,932 - #5 ;
+INFO  22:45:55,932 - #27 bool
+INFO  22:45:55,932 - #27 s1
+INFO  22:45:55,932 - #5 ;
+INFO  22:45:55,932 - #3 {
+INFO  22:45:55,933 - #13 void
+INFO  22:45:55,934 - #27 main
+INFO  22:45:55,935 - #6 (
+INFO  22:45:55,935 - #7 )
+INFO  22:45:55,935 - #27 int
+INFO  22:45:55,935 - #27 bodovi
+INFO  22:45:55,935 - #5 ;
+INFO  22:45:55,936 - #27 bool
+INFO  22:45:55,936 - #27 bt
+INFO  22:45:55,936 - #5 ;
+INFO  22:45:55,936 - #27 int
+INFO  22:45:55,936 - #27 s
+INFO  22:45:55,936 - #5 ;
+INFO  22:45:55,936 - #3 {
+INFO  22:45:55,937 - #27 bodovi
+INFO  22:45:55,938 - #12 =
+INFO  22:45:55,939 - #26 0
+INFO  22:45:55,939 - #5 ;
+INFO  22:45:55,939 - #27 bodovi
+INFO  22:45:55,940 - #15 ++
+INFO  22:45:55,940 - #5 ;
+INFO  22:45:55,940 - #27 bodovi
+INFO  22:45:55,940 - #12 =
+INFO  22:45:55,940 - #27 bodovi
+INFO  22:45:55,940 - #11 +
+INFO  22:45:55,941 - #27 jedan
+INFO  22:45:55,943 - #5 ;
+INFO  22:45:55,943 - #27 bodovi
+INFO  22:45:55,943 - #12 =
+INFO  22:45:55,944 - #27 bodovi
+INFO  22:45:55,944 - #14 *
+INFO  22:45:55,944 - #27 pet
+INFO  22:45:55,946 - #5 ;
+INFO  22:45:55,946 - #27 bodovi
+INFO  22:45:55,946 - #16 --
+INFO  22:45:55,946 - #5 ;
+INFO  22:45:55,946 - #9 print
+INFO  22:45:55,946 - #6 (
+INFO  22:45:55,947 - #27 bodovi
+INFO  22:45:55,947 - #7 )
+INFO  22:45:55,947 - #5 ;
+INFO  22:45:55,947 - #27 niz
+INFO  22:45:55,947 - #12 =
+INFO  22:45:55,947 - #32 new
+INFO  22:45:55,948 - #27 int
+INFO  22:45:55,948 - #20 [
+INFO  22:45:55,948 - #26 3
+INFO  22:45:55,948 - #21 ]
+INFO  22:45:55,948 - #5 ;
+INFO  22:45:55,948 - #27 niz
+INFO  22:45:55,950 - #20 [
+INFO  22:45:55,950 - #27 nula
+INFO  22:45:55,951 - #21 ]
+INFO  22:45:55,951 - #12 =
+INFO  22:45:55,951 - #27 jedan
+INFO  22:45:55,951 - #5 ;
+INFO  22:45:55,951 - #4 }
+INFO  22:45:55,951 - #4 }
+INFO  22:45:55,967 - Deklarisana je konsanta int nula = 0
+INFO  22:45:55,967 - Deklarisana je konsanta int jedan = 1
+INFO  22:45:55,967 - Deklarisana je konsanta int pet = 5
+INFO  22:45:55,967 - Deklarisana je konsanta char pet1 = 99 na liniji 6
+INFO  22:45:55,968 - Deklarisan je niz niz
+INFO  22:45:55,968 - Deklarisan je niz niz2
+INFO  22:45:55,968 - Deklarisana promenljiva a
+INFO  22:45:55,968 - Deklarisana promenljiva b
+INFO  22:45:55,968 - Deklarisan je niz nizch
+INFO  22:45:55,968 - Deklarisana promenljiva c
+INFO  22:45:55,969 - Deklarisana promenljiva s1
+INFO  22:45:55,969 - Obradjuje se funkcija main na liniji 12
+INFO  22:45:55,969 - Deklarisana promenljiva bodovi
+INFO  22:45:55,970 - Deklarisana promenljiva bt
+INFO  22:45:55,970 - Deklarisana promenljiva s
+ERROR 22:45:55,970 - rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@25359ed8
+ERROR 22:45:55,971 - rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@25359ed8
+ERROR 22:45:55,971 - rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@25359ed8
+INFO  22:45:55,971 - Deklarisana je niz (uz pomoc NEW) na liniji 27
+ERROR 22:45:55,971 - rs.etf.pp1.symboltable.concepts.Struct@21a947fe rs.etf.pp1.symboltable.concepts.Struct@5606c0b rs.etf.pp1.symboltable.concepts.Struct@21a947fe rs.etf.pp1.symboltable.concepts.Struct@25359ed8
+ERROR 22:45:55,971 - rs.etf.pp1.symboltable.concepts.Struct@21a947fe rs.etf.pp1.symboltable.concepts.Struct@37574691 rs.etf.pp1.symboltable.concepts.Struct@21a947fe rs.etf.pp1.symboltable.concepts.Struct@25359ed8
+ERROR 22:45:55,972 - Greska na liniji 28 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  22:45:55,972 - Print calls = 1
+INFO  22:45:55,972 -  Deklarisanih promenljivih ima = 11
+ERROR 22:45:55,974 - Parsiranje NIJE uspesno zavrseno!

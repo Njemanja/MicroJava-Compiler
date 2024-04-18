@@ -1,0 +1,38 @@
+INFO  21:44:30,406 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:44:30,444 - #2 program
+INFO  21:44:30,444 - #27 MJProgram
+INFO  21:44:30,444 - #27 int
+INFO  21:44:30,445 - #27 x
+INFO  21:44:30,446 - #5 ;
+INFO  21:44:30,446 - #27 int
+INFO  21:44:30,446 - #27 y
+INFO  21:44:30,446 - #5 ;
+INFO  21:44:30,447 - #3 {
+INFO  21:44:30,447 - #13 void
+INFO  21:44:30,447 - #27 main
+INFO  21:44:30,447 - #6 (
+INFO  21:44:30,448 - #7 )
+INFO  21:44:30,448 - #3 {
+INFO  21:44:30,448 - #9 print
+INFO  21:44:30,449 - #6 (
+INFO  21:44:30,449 - #26 1
+INFO  21:44:30,449 - #7 )
+INFO  21:44:30,449 - #5 ;
+INFO  21:44:30,449 - #27 x
+INFO  21:44:30,450 - #12 =
+INFO  21:44:30,450 - #27 y
+INFO  21:44:30,450 - #11 +
+INFO  21:44:30,451 - #26 5
+INFO  21:44:30,453 - #5 ;
+INFO  21:44:30,453 - #9 print
+INFO  21:44:30,453 - #6 (
+INFO  21:44:30,453 - #26 2
+INFO  21:44:30,454 - #7 )
+INFO  21:44:30,454 - #5 ;
+INFO  21:44:30,454 - #4 }
+INFO  21:44:30,454 - #4 }
+INFO  21:44:30,463 - Deklarisana promenljiva x
+INFO  21:44:30,463 - Deklarisana promenljiva y
+INFO  21:44:30,464 - Print calls = 2
+INFO  21:44:30,464 -  Deklarisanih promenljivih ima = 2
+INFO  21:44:30,464 - Parsiranje uspesno zavrseno!

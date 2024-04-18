@@ -1,0 +1,14 @@
+INFO  19:27:55,274 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:27:55,353 - #2 program
+INFO  19:27:55,354 - #27 MJProgram
+INFO  19:27:55,354 - #27 int
+INFO  19:27:55,357 - #27 x
+INFO  19:27:55,358 - #5 ;
+INFO  19:27:55,358 - #27 int
+INFO  19:27:55,359 - #27 y
+INFO  19:27:55,359 - #5 ;
+INFO  19:27:55,360 - #3 {
+INFO  19:27:55,360 - #13 void
+ERROR 19:27:55,360 - 
+Sintaksna greska na liniji 4
+ERROR 19:27:55,360 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

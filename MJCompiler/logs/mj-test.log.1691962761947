@@ -1,0 +1,64 @@
+INFO  23:38:48,396 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:38:48,612 - #2 program
+INFO  23:38:48,612 - #28 MJProgram
+INFO  23:38:48,612 - #28 int
+INFO  23:38:48,619 - #28 x
+INFO  23:38:48,622 - #5 ;
+INFO  23:38:48,623 - #28 int
+INFO  23:38:48,623 - #28 y
+INFO  23:38:48,623 - #5 ;
+INFO  23:38:48,623 - #3 {
+INFO  23:38:48,623 - #28 int
+INFO  23:38:48,626 - #28 k
+INFO  23:38:48,626 - #6 (
+INFO  23:38:48,627 - #7 )
+INFO  23:38:48,627 - #28 int
+INFO  23:38:48,628 - #28 c
+INFO  23:38:48,628 - #5 ;
+INFO  23:38:48,628 - #3 {
+INFO  23:38:48,628 - #28 c
+INFO  23:38:48,631 - #12 =
+INFO  23:38:48,631 - #27 1
+INFO  23:38:48,631 - #5 ;
+INFO  23:38:48,632 - #10 return
+INFO  23:38:48,632 - #28 c
+INFO  23:38:48,632 - #18 %
+INFO  23:38:48,632 - #27 2
+INFO  23:38:48,639 - #5 ;
+INFO  23:38:48,639 - #4 }
+INFO  23:38:48,640 - #28 int
+INFO  23:38:48,643 - #28 main
+INFO  23:38:48,643 - #6 (
+INFO  23:38:48,643 - #7 )
+INFO  23:38:48,643 - #3 {
+INFO  23:38:48,643 - #28 y
+INFO  23:38:48,644 - #12 =
+INFO  23:38:48,644 - #27 2
+INFO  23:38:48,644 - #5 ;
+INFO  23:38:48,644 - #28 x
+INFO  23:38:48,644 - #12 =
+INFO  23:38:48,644 - #28 y
+INFO  23:38:48,644 - #11 +
+INFO  23:38:48,644 - #27 2
+INFO  23:38:48,648 - #5 ;
+INFO  23:38:48,649 - #10 return
+INFO  23:38:48,649 - #27 0
+INFO  23:38:48,649 - #5 ;
+INFO  23:38:48,649 - #4 }
+INFO  23:38:48,649 - #4 }
+INFO  23:38:48,662 - Deklarisana promenljiva x
+INFO  23:38:48,663 - Deklaracija one
+INFO  23:38:48,663 - Deklarisana VarDeclList 
+INFO  23:38:48,663 - Deklaracija VAR-a
+INFO  23:38:48,663 - Deklaracija
+INFO  23:38:48,663 - Deklarisana promenljiva y
+INFO  23:38:48,663 - Deklaracija one
+INFO  23:38:48,663 - Deklarisana VarDeclList 
+INFO  23:38:48,663 - Deklaracija VAR-a
+INFO  23:38:48,663 - Deklaracija
+INFO  23:38:48,663 - Deklarisana promenljiva c
+INFO  23:38:48,663 - Deklaracija one
+INFO  23:38:48,663 - Deklarisana VarDeclList 
+INFO  23:38:48,664 - Deklaracija VAR-a
+INFO  23:38:48,664 - Deklaracija
+INFO  23:38:48,664 - Print calls = 0

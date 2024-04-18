@@ -1,0 +1,34 @@
+program MJProgram
+	
+	const int nula = 0;
+	const int jedan = 1;
+	const int pet = 5;
+	const char pet1 = 'c';
+
+	int niz[], niz2[], a, b;
+	char nizch[],c;
+	bool s1;
+	bool nizbool[];
+{
+	void main() 
+		int bodovi;
+		bool bt;
+		int s;
+
+	{	
+		
+		bt=true;
+		print(bt);
+		bt=false;
+		print(bt);
+		//bt=3;
+		//print(bt);
+		bt++;
+	
+		
+
+	
+		
+		
+	}
+}

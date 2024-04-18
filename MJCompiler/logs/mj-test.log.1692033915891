@@ -1,0 +1,32 @@
+INFO  19:24:54,891 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:24:54,956 - #2 program
+INFO  19:24:54,956 - #27 MJProgram
+INFO  19:24:54,957 - #27 int
+INFO  19:24:54,959 - #27 x
+INFO  19:24:54,961 - #5 ;
+INFO  19:24:54,961 - #27 int
+INFO  19:24:54,961 - #27 y
+INFO  19:24:54,962 - #5 ;
+INFO  19:24:54,962 - #3 {
+INFO  19:24:54,962 - #27 int
+INFO  19:24:54,963 - #27 main
+INFO  19:24:54,963 - #6 (
+INFO  19:24:54,965 - #7 )
+INFO  19:24:54,965 - #3 {
+INFO  19:24:54,965 - #9 print
+INFO  19:24:54,966 - #6 (
+INFO  19:24:54,967 - #26 1
+INFO  19:24:54,967 - #7 )
+INFO  19:24:54,967 - #5 ;
+INFO  19:24:54,967 - #27 x
+INFO  19:24:54,968 - #12 =
+INFO  19:24:54,968 - #27 y
+INFO  19:24:54,968 - #11 +
+INFO  19:24:54,969 - #26 5
+INFO  19:24:54,970 - #11 +
+INFO  19:24:54,971 - #5 ;
+ERROR 19:24:54,971 - 
+Sintaksna greska na liniji 8
+INFO  19:24:54,971 - #9 print
+INFO  19:24:54,971 - #6 (
+INFO  19:24:54,971 - #26 2

@@ -1,0 +1,9 @@
+INFO  05:35:54,341 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\mojtest.mj
+INFO  05:35:54,392 - #2 program
+INFO  05:35:54,392 - #25 MJProgram
+INFO  05:35:54,392 - #25 int
+INFO  05:35:54,396 - #25 main
+INFO  05:35:54,397 - #6 (
+ERROR 05:35:54,397 - 
+Sintaksna greska na liniji 4
+ERROR 05:35:54,398 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 4

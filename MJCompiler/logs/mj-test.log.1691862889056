@@ -1,0 +1,13 @@
+INFO  19:53:45,682 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\mojtest.mj
+INFO  19:53:45,917 - #2 program
+INFO  19:53:45,918 - #26 test301
+INFO  19:53:45,918 - #26 int
+INFO  19:53:45,924 - #26 a
+INFO  19:53:45,926 - #8 ,
+INFO  19:53:45,931 - #26 b
+INFO  19:53:45,931 - #5 ;
+INFO  19:53:45,932 - #3 {
+INFO  19:53:45,932 - #13 void
+ERROR 19:53:45,932 - 
+Sintaksna greska na liniji 8
+ERROR 19:53:45,933 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 8

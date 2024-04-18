@@ -1,0 +1,9 @@
+INFO  22:06:12,273 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\mojtest.mj
+INFO  22:06:12,313 - #2 program
+INFO  22:06:12,313 - #26 MJProgram
+INFO  22:06:12,313 - #26 int
+INFO  22:06:12,315 - #26 x
+INFO  22:06:12,316 - #8 ,
+ERROR 22:06:12,316 - 
+Sintaksna greska na liniji 2
+ERROR 22:06:12,316 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2

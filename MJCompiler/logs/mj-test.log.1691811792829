@@ -1,0 +1,38 @@
+INFO  05:42:04,926 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\mojtest.mj
+INFO  05:42:04,975 - #2 program
+INFO  05:42:04,976 - #25 MJProgram
+INFO  05:42:04,976 - #25 int
+INFO  05:42:04,979 - #25 x
+INFO  05:42:04,980 - #5 ;
+INFO  05:42:04,980 - #25 int
+INFO  05:42:04,981 - #25 y
+INFO  05:42:04,982 - #5 ;
+INFO  05:42:04,982 - #3 {
+INFO  05:42:04,982 - #25 int
+INFO  05:42:04,983 - #25 k
+INFO  05:42:04,983 - #6 (
+INFO  05:42:04,985 - #7 )
+INFO  05:42:04,986 - #25 int
+INFO  05:42:04,986 - #25 c
+INFO  05:42:04,987 - #5 ;
+INFO  05:42:04,987 - #3 {
+INFO  05:42:04,987 - #25 c
+INFO  05:42:04,989 - #12 =
+INFO  05:42:04,989 - #24 1
+INFO  05:42:04,989 - #5 ;
+INFO  05:42:04,990 - #10 return
+INFO  05:42:04,991 - #25 c
+INFO  05:42:04,991 - #18 %
+INFO  05:42:04,991 - #24 2
+INFO  05:42:04,993 - #5 ;
+INFO  05:42:04,993 - #4 }
+INFO  05:42:04,993 - #25 int
+INFO  05:42:04,994 - #25 main
+INFO  05:42:04,995 - #6 (
+INFO  05:42:04,995 - #7 )
+INFO  05:42:04,995 - #3 {
+INFO  05:42:04,995 - #25 const
+INFO  05:42:04,995 - #25 int
+ERROR 05:42:04,995 - 
+Sintaksna greska na liniji 11
+ERROR 05:42:04,995 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11

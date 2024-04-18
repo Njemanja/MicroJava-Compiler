@@ -1,0 +1,89 @@
+INFO  02:48:36,184 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:48:36,223 - #2 program
+INFO  02:48:36,224 - #28 MJProgram
+INFO  02:48:36,224 - #28 int
+INFO  02:48:36,225 - #28 x
+INFO  02:48:36,226 - #5 ;
+INFO  02:48:36,226 - #28 int
+INFO  02:48:36,226 - #28 x
+INFO  02:48:36,226 - #5 ;
+INFO  02:48:36,227 - #28 char
+INFO  02:48:36,227 - #28 cc
+INFO  02:48:36,227 - #5 ;
+INFO  02:48:36,227 - #28 int
+INFO  02:48:36,227 - #28 a
+INFO  02:48:36,227 - #8 ,
+INFO  02:48:36,228 - #28 b
+INFO  02:48:36,228 - #5 ;
+INFO  02:48:36,228 - #28 int
+INFO  02:48:36,228 - #28 a
+INFO  02:48:36,228 - #20 [
+INFO  02:48:36,229 - #21 ]
+INFO  02:48:36,229 - #5 ;
+INFO  02:48:36,229 - #3 {
+INFO  02:48:36,229 - #28 int
+INFO  02:48:36,230 - #28 k
+INFO  02:48:36,230 - #6 (
+INFO  02:48:36,231 - #7 )
+INFO  02:48:36,231 - #28 int
+INFO  02:48:36,231 - #28 c
+INFO  02:48:36,231 - #5 ;
+INFO  02:48:36,231 - #3 {
+INFO  02:48:36,232 - #28 c
+INFO  02:48:36,232 - #12 =
+INFO  02:48:36,233 - #27 1
+INFO  02:48:36,233 - #5 ;
+INFO  02:48:36,233 - #10 return
+INFO  02:48:36,233 - #28 c
+INFO  02:48:36,233 - #18 %
+INFO  02:48:36,233 - #27 2
+INFO  02:48:36,234 - #5 ;
+INFO  02:48:36,235 - #4 }
+INFO  02:48:36,235 - #28 int
+INFO  02:48:36,236 - #28 main
+INFO  02:48:36,236 - #6 (
+INFO  02:48:36,236 - #7 )
+INFO  02:48:36,236 - #3 {
+INFO  02:48:36,236 - #28 y
+INFO  02:48:36,236 - #12 =
+INFO  02:48:36,236 - #27 2
+INFO  02:48:36,236 - #5 ;
+INFO  02:48:36,236 - #28 x
+INFO  02:48:36,236 - #12 =
+INFO  02:48:36,237 - #28 y
+INFO  02:48:36,237 - #11 +
+INFO  02:48:36,237 - #27 2
+INFO  02:48:36,238 - #5 ;
+INFO  02:48:36,238 - #10 return
+INFO  02:48:36,238 - #27 0
+INFO  02:48:36,238 - #5 ;
+INFO  02:48:36,238 - #4 }
+INFO  02:48:36,238 - #4 }
+INFO  02:48:36,245 - 
+INFO  02:48:36,245 - Deklarisana promenljiva x
+INFO  02:48:36,245 - Deklaracija VAR-a
+INFO  02:48:36,246 - Deklaracija
+INFO  02:48:36,246 - GRESKA:            Promenljiva x je vec deklarisana!
+INFO  02:48:36,246 - 
+INFO  02:48:36,246 - Deklaracija VAR-a
+INFO  02:48:36,246 - Deklaracija
+INFO  02:48:36,246 - 
+INFO  02:48:36,246 - Deklarisana promenljiva cc
+INFO  02:48:36,246 - Deklaracija VAR-a
+INFO  02:48:36,246 - Deklaracija
+INFO  02:48:36,246 - 
+INFO  02:48:36,246 - 
+INFO  02:48:36,246 - Deklarisana promenljiva a
+INFO  02:48:36,246 - Deklarisana promenljiva b
+INFO  02:48:36,246 - Deklaracija VAR-a
+INFO  02:48:36,246 - Deklaracija
+INFO  02:48:36,246 - GRESKA:            Ime niza a je vec u upotrebi!
+INFO  02:48:36,246 - 
+INFO  02:48:36,247 - Deklaracija VAR-a
+INFO  02:48:36,247 - Deklaracija
+INFO  02:48:36,247 - 
+INFO  02:48:36,247 - Deklarisana promenljiva c
+INFO  02:48:36,247 - Deklaracija VAR-a
+INFO  02:48:36,247 - Deklaracija
+INFO  02:48:36,247 - Print calls = 0
+INFO  02:48:36,248 - Parsiranje uspesno zavrseno!

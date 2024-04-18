@@ -1,0 +1,67 @@
+INFO  02:08:52,834 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:08:53,047 - #2 program
+INFO  02:08:53,048 - #28 MJProgram
+INFO  02:08:53,048 - #28 int
+INFO  02:08:53,054 - #28 x
+INFO  02:08:53,057 - #5 ;
+INFO  02:08:53,057 - #28 int
+INFO  02:08:53,058 - #28 y
+INFO  02:08:53,058 - #5 ;
+INFO  02:08:53,058 - #3 {
+INFO  02:08:53,058 - #28 int
+INFO  02:08:53,061 - #28 k
+INFO  02:08:53,062 - #6 (
+INFO  02:08:53,063 - #7 )
+INFO  02:08:53,063 - #28 int
+INFO  02:08:53,063 - #28 c
+INFO  02:08:53,063 - #5 ;
+INFO  02:08:53,063 - #3 {
+INFO  02:08:53,063 - #28 c
+INFO  02:08:53,066 - #12 =
+INFO  02:08:53,067 - #27 1
+INFO  02:08:53,067 - #5 ;
+INFO  02:08:53,067 - #10 return
+INFO  02:08:53,068 - #28 c
+INFO  02:08:53,068 - #18 %
+INFO  02:08:53,068 - #27 2
+INFO  02:08:53,074 - #5 ;
+INFO  02:08:53,074 - #4 }
+INFO  02:08:53,074 - #28 int
+INFO  02:08:53,078 - #28 main
+INFO  02:08:53,078 - #6 (
+INFO  02:08:53,078 - #7 )
+INFO  02:08:53,078 - #3 {
+INFO  02:08:53,078 - #28 y
+INFO  02:08:53,079 - #12 =
+INFO  02:08:53,079 - #27 2
+INFO  02:08:53,079 - #5 ;
+INFO  02:08:53,079 - #28 x
+INFO  02:08:53,079 - #12 =
+INFO  02:08:53,079 - #28 y
+INFO  02:08:53,079 - #11 +
+INFO  02:08:53,079 - #27 2
+INFO  02:08:53,083 - #5 ;
+INFO  02:08:53,083 - #10 return
+INFO  02:08:53,083 - #27 0
+INFO  02:08:53,083 - #5 ;
+INFO  02:08:53,083 - #4 }
+INFO  02:08:53,083 - #4 }
+INFO  02:08:53,095 - Deklarisana promenljiva x
+INFO  02:08:53,095 - Deklaracija one
+INFO  02:08:53,096 - Deklarisana VarDeclList 
+INFO  02:08:53,096 - Deklarisana promenljiva x
+INFO  02:08:53,096 - Deklaracija VAR-a
+INFO  02:08:53,096 - Deklaracija
+INFO  02:08:53,096 - Deklarisana promenljiva y
+INFO  02:08:53,096 - Deklaracija one
+INFO  02:08:53,096 - Deklarisana VarDeclList 
+INFO  02:08:53,096 - Deklarisana promenljiva y
+INFO  02:08:53,096 - Deklaracija VAR-a
+INFO  02:08:53,096 - Deklaracija
+INFO  02:08:53,096 - Deklarisana promenljiva c
+INFO  02:08:53,096 - Deklaracija one
+INFO  02:08:53,096 - Deklarisana VarDeclList 
+INFO  02:08:53,097 - Deklarisana promenljiva c
+INFO  02:08:53,097 - Deklaracija VAR-a
+INFO  02:08:53,097 - Deklaracija
+INFO  02:08:53,097 - Print calls = 0

@@ -1,0 +1,78 @@
+INFO  02:20:29,205 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:20:29,244 - #2 program
+INFO  02:20:29,244 - #28 MJProgram
+INFO  02:20:29,244 - #28 int
+INFO  02:20:29,245 - #28 x
+INFO  02:20:29,246 - #5 ;
+INFO  02:20:29,246 - #28 int
+INFO  02:20:29,247 - #28 y
+INFO  02:20:29,247 - #5 ;
+INFO  02:20:29,247 - #28 char
+INFO  02:20:29,247 - #28 cc
+INFO  02:20:29,247 - #5 ;
+INFO  02:20:29,247 - #28 int
+INFO  02:20:29,247 - #28 a
+INFO  02:20:29,247 - #8 ,
+INFO  02:20:29,247 - #28 b
+INFO  02:20:29,248 - #5 ;
+INFO  02:20:29,248 - #3 {
+INFO  02:20:29,248 - #28 int
+INFO  02:20:29,248 - #28 k
+INFO  02:20:29,249 - #6 (
+INFO  02:20:29,249 - #7 )
+INFO  02:20:29,250 - #28 int
+INFO  02:20:29,250 - #28 c
+INFO  02:20:29,250 - #5 ;
+INFO  02:20:29,250 - #3 {
+INFO  02:20:29,250 - #28 c
+INFO  02:20:29,251 - #12 =
+INFO  02:20:29,252 - #27 1
+INFO  02:20:29,252 - #5 ;
+INFO  02:20:29,252 - #10 return
+INFO  02:20:29,252 - #28 c
+INFO  02:20:29,253 - #18 %
+INFO  02:20:29,253 - #27 2
+INFO  02:20:29,254 - #5 ;
+INFO  02:20:29,255 - #4 }
+INFO  02:20:29,255 - #28 int
+INFO  02:20:29,256 - #28 main
+INFO  02:20:29,256 - #6 (
+INFO  02:20:29,256 - #7 )
+INFO  02:20:29,256 - #3 {
+INFO  02:20:29,256 - #28 y
+INFO  02:20:29,256 - #12 =
+INFO  02:20:29,257 - #27 2
+INFO  02:20:29,257 - #5 ;
+INFO  02:20:29,257 - #28 x
+INFO  02:20:29,257 - #12 =
+INFO  02:20:29,257 - #28 y
+INFO  02:20:29,257 - #11 +
+INFO  02:20:29,257 - #27 2
+INFO  02:20:29,258 - #5 ;
+INFO  02:20:29,258 - #10 return
+INFO  02:20:29,258 - #27 0
+INFO  02:20:29,259 - #5 ;
+INFO  02:20:29,259 - #4 }
+INFO  02:20:29,259 - #4 }
+INFO  02:20:29,266 - Deklaracija one
+INFO  02:20:29,266 - Deklarisana promenljiva x
+INFO  02:20:29,266 - Deklaracija VAR-a
+INFO  02:20:29,267 - Deklaracija
+INFO  02:20:29,267 - Deklaracija one
+INFO  02:20:29,267 - Deklarisana promenljiva y
+INFO  02:20:29,267 - Deklaracija VAR-a
+INFO  02:20:29,267 - Deklaracija
+INFO  02:20:29,267 - Deklaracija one
+INFO  02:20:29,267 - Deklarisana promenljiva cc
+INFO  02:20:29,267 - Deklaracija VAR-a
+INFO  02:20:29,267 - Deklaracija
+INFO  02:20:29,267 - Deklaracija one
+INFO  02:20:29,267 - Deklarisana promenljiva b
+INFO  02:20:29,267 - Deklaracija VAR-a
+INFO  02:20:29,267 - Deklaracija
+INFO  02:20:29,267 - Deklaracija one
+INFO  02:20:29,267 - Deklarisana promenljiva c
+INFO  02:20:29,267 - Deklaracija VAR-a
+INFO  02:20:29,267 - Deklaracija
+INFO  02:20:29,267 - Print calls = 0
+INFO  02:20:29,268 - Parsiranje uspesno zavrseno!

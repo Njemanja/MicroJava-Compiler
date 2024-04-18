@@ -1,0 +1,91 @@
+INFO  22:45:58,133 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:45:58,195 - #2 program
+INFO  22:45:58,195 - #27 MJProgram
+INFO  22:45:58,195 - #23 const
+INFO  22:45:58,197 - #27 int
+INFO  22:45:58,197 - #27 nula
+INFO  22:45:58,198 - #12 =
+INFO  22:45:58,198 - #26 0
+INFO  22:45:58,198 - #5 ;
+INFO  22:45:58,198 - #23 const
+INFO  22:45:58,198 - #27 int
+INFO  22:45:58,199 - #27 jedan
+INFO  22:45:58,199 - #12 =
+INFO  22:45:58,199 - #26 1
+INFO  22:45:58,199 - #5 ;
+INFO  22:45:58,199 - #23 const
+INFO  22:45:58,199 - #27 int
+INFO  22:45:58,199 - #27 pet
+INFO  22:45:58,199 - #12 =
+INFO  22:45:58,199 - #26 5
+INFO  22:45:58,199 - #5 ;
+INFO  22:45:58,200 - #27 int
+INFO  22:45:58,200 - #27 niz
+INFO  22:45:58,200 - #20 [
+INFO  22:45:58,200 - #21 ]
+INFO  22:45:58,200 - #8 ,
+INFO  22:45:58,201 - #27 niz2
+INFO  22:45:58,201 - #20 [
+INFO  22:45:58,201 - #21 ]
+INFO  22:45:58,201 - #8 ,
+INFO  22:45:58,201 - #27 a
+INFO  22:45:58,201 - #8 ,
+INFO  22:45:58,201 - #27 b
+INFO  22:45:58,201 - #8 ,
+INFO  22:45:58,201 - #27 x
+INFO  22:45:58,201 - #8 ,
+INFO  22:45:58,202 - #27 y
+INFO  22:45:58,202 - #5 ;
+INFO  22:45:58,202 - #27 char
+INFO  22:45:58,202 - #27 nizch
+INFO  22:45:58,202 - #20 [
+INFO  22:45:58,202 - #21 ]
+INFO  22:45:58,203 - #5 ;
+INFO  22:45:58,203 - #3 {
+INFO  22:45:58,203 - #13 void
+INFO  22:45:58,204 - #27 main
+INFO  22:45:58,204 - #6 (
+INFO  22:45:58,204 - #7 )
+INFO  22:45:58,204 - #27 int
+INFO  22:45:58,204 - #27 bodovi
+INFO  22:45:58,204 - #5 ;
+INFO  22:45:58,204 - #27 bool
+INFO  22:45:58,205 - #27 bt
+INFO  22:45:58,205 - #5 ;
+INFO  22:45:58,205 - #3 {
+INFO  22:45:58,205 - #27 y
+INFO  22:45:58,206 - #12 =
+INFO  22:45:58,206 - #26 3
+INFO  22:45:58,206 - #5 ;
+INFO  22:45:58,207 - #9 print
+INFO  22:45:58,207 - #6 (
+INFO  22:45:58,207 - #26 1
+INFO  22:45:58,207 - #7 )
+INFO  22:45:58,207 - #5 ;
+INFO  22:45:58,208 - #27 x
+INFO  22:45:58,208 - #12 =
+INFO  22:45:58,208 - #27 y
+INFO  22:45:58,208 - #11 +
+INFO  22:45:58,208 - #26 5
+INFO  22:45:58,210 - #5 ;
+INFO  22:45:58,210 - #9 print
+INFO  22:45:58,210 - #6 (
+INFO  22:45:58,210 - #26 2
+INFO  22:45:58,210 - #7 )
+INFO  22:45:58,211 - #5 ;
+INFO  22:45:58,211 - #4 }
+INFO  22:45:58,211 - #4 }
+INFO  22:45:58,234 - Deklarisana je konsanta int nula = 0
+INFO  22:45:58,235 - Deklarisana je konsanta int jedan = 1
+INFO  22:45:58,235 - Deklarisana je konsanta int pet = 5
+INFO  22:45:58,235 - Deklarisan je niz niz
+INFO  22:45:58,235 - Deklarisan je niz niz2
+INFO  22:45:58,235 - Deklarisana promenljiva a
+INFO  22:45:58,235 - Deklarisana promenljiva b
+INFO  22:45:58,235 - Deklarisana promenljiva x
+INFO  22:45:58,235 - Deklarisana promenljiva y
+INFO  22:45:58,235 - Deklarisan je niz nizch
+INFO  22:45:58,235 - Obradjuje se funkcija main na liniji 10
+INFO  22:45:58,236 - Deklarisana promenljiva bodovi
+INFO  22:45:58,236 - Deklarisana promenljiva bt
+ERROR 22:45:58,236 - 3

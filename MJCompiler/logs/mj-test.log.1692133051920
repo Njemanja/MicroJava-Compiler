@@ -1,0 +1,123 @@
+INFO  22:56:29,259 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:56:29,331 - #2 program
+INFO  22:56:29,332 - #27 MJProgram
+INFO  22:56:29,332 - #23 const
+INFO  22:56:29,334 - #27 int
+INFO  22:56:29,334 - #27 nula
+INFO  22:56:29,335 - #12 =
+INFO  22:56:29,335 - #26 0
+INFO  22:56:29,336 - #5 ;
+INFO  22:56:29,336 - #23 const
+INFO  22:56:29,336 - #27 int
+INFO  22:56:29,337 - #27 jedan
+INFO  22:56:29,337 - #12 =
+INFO  22:56:29,337 - #26 1
+INFO  22:56:29,337 - #5 ;
+INFO  22:56:29,337 - #23 const
+INFO  22:56:29,338 - #27 int
+INFO  22:56:29,338 - #27 pet
+INFO  22:56:29,338 - #12 =
+INFO  22:56:29,338 - #26 5
+INFO  22:56:29,338 - #5 ;
+INFO  22:56:29,339 - #23 const
+INFO  22:56:29,339 - #27 char
+INFO  22:56:29,339 - #27 pet1
+INFO  22:56:29,339 - #12 =
+INFO  22:56:29,339 - #28 c
+INFO  22:56:29,339 - #5 ;
+INFO  22:56:29,340 - #27 int
+INFO  22:56:29,340 - #27 niz
+INFO  22:56:29,340 - #20 [
+INFO  22:56:29,340 - #21 ]
+INFO  22:56:29,340 - #8 ,
+INFO  22:56:29,340 - #27 niz2
+INFO  22:56:29,340 - #20 [
+INFO  22:56:29,341 - #21 ]
+INFO  22:56:29,341 - #8 ,
+INFO  22:56:29,341 - #27 a
+INFO  22:56:29,341 - #8 ,
+INFO  22:56:29,341 - #27 b
+INFO  22:56:29,341 - #5 ;
+INFO  22:56:29,341 - #27 char
+INFO  22:56:29,342 - #27 nizch
+INFO  22:56:29,342 - #20 [
+INFO  22:56:29,342 - #21 ]
+INFO  22:56:29,342 - #8 ,
+INFO  22:56:29,343 - #27 c
+INFO  22:56:29,343 - #5 ;
+INFO  22:56:29,343 - #27 bool
+INFO  22:56:29,343 - #27 s1
+INFO  22:56:29,343 - #5 ;
+INFO  22:56:29,343 - #3 {
+INFO  22:56:29,343 - #13 void
+INFO  22:56:29,345 - #27 main
+INFO  22:56:29,345 - #6 (
+INFO  22:56:29,345 - #7 )
+INFO  22:56:29,345 - #27 int
+INFO  22:56:29,346 - #27 bodovi
+INFO  22:56:29,346 - #5 ;
+INFO  22:56:29,346 - #27 bool
+INFO  22:56:29,346 - #27 bt
+INFO  22:56:29,346 - #5 ;
+INFO  22:56:29,346 - #27 int
+INFO  22:56:29,346 - #27 s
+INFO  22:56:29,347 - #5 ;
+INFO  22:56:29,347 - #3 {
+INFO  22:56:29,347 - #27 bodovi
+INFO  22:56:29,349 - #12 =
+INFO  22:56:29,349 - #26 0
+INFO  22:56:29,349 - #5 ;
+INFO  22:56:29,350 - #27 bodovi
+INFO  22:56:29,350 - #15 ++
+INFO  22:56:29,350 - #5 ;
+INFO  22:56:29,350 - #27 bodovi
+INFO  22:56:29,351 - #12 =
+INFO  22:56:29,351 - #27 bodovi
+INFO  22:56:29,351 - #11 +
+INFO  22:56:29,351 - #27 jedan
+INFO  22:56:29,353 - #5 ;
+INFO  22:56:29,354 - #27 bodovi
+INFO  22:56:29,354 - #12 =
+INFO  22:56:29,354 - #27 bodovi
+INFO  22:56:29,354 - #14 *
+INFO  22:56:29,354 - #27 pet
+INFO  22:56:29,356 - #5 ;
+INFO  22:56:29,357 - #27 bodovi
+INFO  22:56:29,357 - #16 --
+INFO  22:56:29,357 - #5 ;
+INFO  22:56:29,357 - #9 print
+INFO  22:56:29,357 - #6 (
+INFO  22:56:29,357 - #27 bodovi
+INFO  22:56:29,357 - #7 )
+INFO  22:56:29,357 - #5 ;
+INFO  22:56:29,357 - #27 niz
+INFO  22:56:29,358 - #20 [
+INFO  22:56:29,359 - #27 nula
+INFO  22:56:29,359 - #21 ]
+INFO  22:56:29,359 - #12 =
+INFO  22:56:29,360 - #27 jedan
+INFO  22:56:29,360 - #5 ;
+INFO  22:56:29,360 - #4 }
+INFO  22:56:29,360 - #4 }
+INFO  22:56:29,383 - Deklarisana je konsanta int nula = 0
+INFO  22:56:29,384 - Deklarisana je konsanta int jedan = 1
+INFO  22:56:29,384 - Deklarisana je konsanta int pet = 5
+INFO  22:56:29,384 - Deklarisana je konsanta char pet1 = 99 na liniji 6
+INFO  22:56:29,384 - Deklarisan je niz niz
+INFO  22:56:29,384 - Deklarisan je niz niz2
+INFO  22:56:29,385 - Deklarisana promenljiva a
+INFO  22:56:29,385 - Deklarisana promenljiva b
+INFO  22:56:29,385 - Deklarisan je niz nizch
+INFO  22:56:29,385 - Deklarisana promenljiva c
+INFO  22:56:29,385 - Deklarisana promenljiva s1
+INFO  22:56:29,386 - Obradjuje se funkcija main na liniji 12
+INFO  22:56:29,386 - Deklarisana promenljiva bodovi
+INFO  22:56:29,386 - Deklarisana promenljiva bt
+INFO  22:56:29,386 - Deklarisana promenljiva s
+INFO  22:56:29,387 - TIP 1: 1  TIP 2: 1
+INFO  22:56:29,387 - TIP 1: 1  TIP 2: 1
+INFO  22:56:29,387 - TIP 1: 1  TIP 2: 1
+INFO  22:56:29,387 - TIP 1: 3  TIP 2: 1
+INFO  22:56:29,388 - Print calls = 1
+INFO  22:56:29,388 -  Deklarisanih promenljivih ima = 10
+INFO  22:56:29,390 - Parsiranje uspesno zavrseno!

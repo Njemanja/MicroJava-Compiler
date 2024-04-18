@@ -1,0 +1,52 @@
+INFO  23:26:15,386 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:26:15,427 - #2 program
+INFO  23:26:15,428 - #28 MJProgram
+INFO  23:26:15,428 - #28 int
+INFO  23:26:15,430 - #28 x
+INFO  23:26:15,431 - #5 ;
+INFO  23:26:15,431 - #28 int
+INFO  23:26:15,432 - #28 y
+INFO  23:26:15,432 - #5 ;
+INFO  23:26:15,432 - #3 {
+INFO  23:26:15,432 - #28 int
+INFO  23:26:15,433 - #28 k
+INFO  23:26:15,433 - #6 (
+INFO  23:26:15,434 - #7 )
+INFO  23:26:15,434 - #28 int
+INFO  23:26:15,435 - #28 c
+INFO  23:26:15,435 - #5 ;
+INFO  23:26:15,435 - #3 {
+INFO  23:26:15,435 - #28 c
+INFO  23:26:15,436 - #12 =
+INFO  23:26:15,436 - #27 1
+INFO  23:26:15,436 - #5 ;
+INFO  23:26:15,437 - #10 return
+INFO  23:26:15,437 - #28 c
+INFO  23:26:15,437 - #18 %
+INFO  23:26:15,437 - #27 2
+INFO  23:26:15,439 - #5 ;
+INFO  23:26:15,439 - #4 }
+INFO  23:26:15,439 - #28 int
+INFO  23:26:15,440 - #28 main
+INFO  23:26:15,440 - #6 (
+INFO  23:26:15,440 - #7 )
+INFO  23:26:15,440 - #3 {
+INFO  23:26:15,440 - #28 y
+INFO  23:26:15,440 - #12 =
+INFO  23:26:15,440 - #27 2
+INFO  23:26:15,440 - #5 ;
+INFO  23:26:15,440 - #28 x
+INFO  23:26:15,440 - #12 =
+INFO  23:26:15,441 - #28 y
+INFO  23:26:15,441 - #11 +
+INFO  23:26:15,441 - #27 2
+INFO  23:26:15,442 - #5 ;
+INFO  23:26:15,442 - #10 return
+INFO  23:26:15,442 - #27 0
+INFO  23:26:15,442 - #5 ;
+INFO  23:26:15,442 - #4 }
+INFO  23:26:15,442 - #4 }
+INFO  23:26:15,450 - Deklarisana promenljiva x
+INFO  23:26:15,450 - Deklarisana promenljiva y
+INFO  23:26:15,450 - Deklarisana promenljiva c
+INFO  23:26:15,450 - Print calls = 0

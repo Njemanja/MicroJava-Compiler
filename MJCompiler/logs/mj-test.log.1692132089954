@@ -1,0 +1,122 @@
+INFO  22:40:49,336 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:40:49,416 - #2 program
+INFO  22:40:49,416 - #27 MJProgram
+INFO  22:40:49,416 - #23 const
+INFO  22:40:49,418 - #27 int
+INFO  22:40:49,419 - #27 nula
+INFO  22:40:49,420 - #12 =
+INFO  22:40:49,420 - #26 0
+INFO  22:40:49,421 - #5 ;
+INFO  22:40:49,421 - #23 const
+INFO  22:40:49,422 - #27 int
+INFO  22:40:49,422 - #27 jedan
+INFO  22:40:49,422 - #12 =
+INFO  22:40:49,422 - #26 1
+INFO  22:40:49,423 - #5 ;
+INFO  22:40:49,423 - #23 const
+INFO  22:40:49,423 - #27 int
+INFO  22:40:49,423 - #27 pet
+INFO  22:40:49,423 - #12 =
+INFO  22:40:49,424 - #26 5
+INFO  22:40:49,424 - #5 ;
+INFO  22:40:49,424 - #23 const
+INFO  22:40:49,425 - #27 char
+INFO  22:40:49,425 - #27 pet1
+INFO  22:40:49,425 - #12 =
+INFO  22:40:49,425 - #28 c
+INFO  22:40:49,425 - #5 ;
+INFO  22:40:49,426 - #27 int
+INFO  22:40:49,426 - #27 niz
+INFO  22:40:49,426 - #20 [
+INFO  22:40:49,426 - #21 ]
+INFO  22:40:49,426 - #8 ,
+INFO  22:40:49,427 - #27 niz2
+INFO  22:40:49,427 - #20 [
+INFO  22:40:49,427 - #21 ]
+INFO  22:40:49,427 - #8 ,
+INFO  22:40:49,427 - #27 a
+INFO  22:40:49,427 - #8 ,
+INFO  22:40:49,427 - #27 b
+INFO  22:40:49,428 - #5 ;
+INFO  22:40:49,428 - #27 char
+INFO  22:40:49,428 - #27 nizch
+INFO  22:40:49,429 - #20 [
+INFO  22:40:49,429 - #21 ]
+INFO  22:40:49,429 - #8 ,
+INFO  22:40:49,429 - #27 c
+INFO  22:40:49,429 - #5 ;
+INFO  22:40:49,429 - #27 bool
+INFO  22:40:49,429 - #27 s1
+INFO  22:40:49,429 - #5 ;
+INFO  22:40:49,429 - #3 {
+INFO  22:40:49,430 - #13 void
+INFO  22:40:49,431 - #27 main
+INFO  22:40:49,431 - #6 (
+INFO  22:40:49,431 - #7 )
+INFO  22:40:49,432 - #27 int
+INFO  22:40:49,432 - #27 bodovi
+INFO  22:40:49,432 - #5 ;
+INFO  22:40:49,432 - #27 bool
+INFO  22:40:49,432 - #27 bt
+INFO  22:40:49,432 - #5 ;
+INFO  22:40:49,432 - #27 int
+INFO  22:40:49,432 - #27 s
+INFO  22:40:49,433 - #5 ;
+INFO  22:40:49,433 - #3 {
+INFO  22:40:49,433 - #27 bodovi
+INFO  22:40:49,434 - #12 =
+INFO  22:40:49,435 - #26 0
+INFO  22:40:49,435 - #5 ;
+INFO  22:40:49,435 - #27 bodovi
+INFO  22:40:49,436 - #15 ++
+INFO  22:40:49,436 - #5 ;
+INFO  22:40:49,436 - #27 bodovi
+INFO  22:40:49,437 - #12 =
+INFO  22:40:49,437 - #27 bodovi
+INFO  22:40:49,437 - #11 +
+INFO  22:40:49,437 - #27 jedan
+INFO  22:40:49,440 - #5 ;
+INFO  22:40:49,441 - #27 bodovi
+INFO  22:40:49,441 - #12 =
+INFO  22:40:49,441 - #27 bodovi
+INFO  22:40:49,441 - #14 *
+INFO  22:40:49,442 - #27 pet
+INFO  22:40:49,445 - #5 ;
+INFO  22:40:49,445 - #27 bodovi
+INFO  22:40:49,446 - #16 --
+INFO  22:40:49,446 - #5 ;
+INFO  22:40:49,446 - #9 print
+INFO  22:40:49,446 - #6 (
+INFO  22:40:49,446 - #27 bodovi
+INFO  22:40:49,447 - #7 )
+INFO  22:40:49,447 - #5 ;
+INFO  22:40:49,447 - #27 nizch
+INFO  22:40:49,448 - #12 =
+INFO  22:40:49,448 - #32 new
+INFO  22:40:49,448 - #27 char
+INFO  22:40:49,448 - #20 [
+INFO  22:40:49,449 - #26 3
+INFO  22:40:49,449 - #21 ]
+INFO  22:40:49,449 - #5 ;
+INFO  22:40:49,449 - #4 }
+INFO  22:40:49,452 - #4 }
+INFO  22:40:49,475 - Deklarisana je konsanta int nula = 0
+INFO  22:40:49,476 - Deklarisana je konsanta int jedan = 1
+INFO  22:40:49,476 - Deklarisana je konsanta int pet = 5
+INFO  22:40:49,476 - Deklarisana je konsanta char pet1 = 99 na liniji 6
+INFO  22:40:49,476 - Deklarisan je niz niz
+INFO  22:40:49,476 - Deklarisan je niz niz2
+INFO  22:40:49,476 - Deklarisana promenljiva a
+INFO  22:40:49,476 - Deklarisana promenljiva b
+INFO  22:40:49,477 - Deklarisan je niz nizch
+INFO  22:40:49,477 - Deklarisana promenljiva c
+INFO  22:40:49,477 - Deklarisana promenljiva s1
+INFO  22:40:49,477 - Obradjuje se funkcija main na liniji 12
+INFO  22:40:49,477 - Deklarisana promenljiva bodovi
+INFO  22:40:49,478 - Deklarisana promenljiva bt
+INFO  22:40:49,478 - Deklarisana promenljiva s
+ERROR 22:40:49,478 - Greska na liniji 27 : funkcija NEW mora da ide uz INT.
+ERROR 22:40:49,479 - Greska na liniji 27 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  22:40:49,479 - Print calls = 1
+INFO  22:40:49,479 -  Deklarisanih promenljivih ima = 10
+ERROR 22:40:49,481 - Parsiranje NIJE uspesno zavrseno!

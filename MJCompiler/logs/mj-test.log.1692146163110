@@ -1,0 +1,117 @@
+INFO  02:11:17,306 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:11:17,359 - #2 program
+INFO  02:11:17,359 - #27 MJProgram
+INFO  02:11:17,359 - #27 int
+INFO  02:11:17,361 - #27 x
+INFO  02:11:17,362 - #5 ;
+INFO  02:11:17,362 - #3 {
+INFO  02:11:17,363 - #13 void
+INFO  02:11:17,364 - #27 main
+INFO  02:11:17,364 - #6 (
+INFO  02:11:17,365 - #7 )
+INFO  02:11:17,365 - #3 {
+INFO  02:11:17,365 - #27 x
+INFO  02:11:17,366 - #12 =
+INFO  02:11:17,366 - #26 4
+INFO  02:11:17,366 - #5 ;
+INFO  02:11:17,367 - #9 print
+INFO  02:11:17,367 - #6 (
+INFO  02:11:17,367 - #27 x
+INFO  02:11:17,368 - #7 )
+INFO  02:11:17,368 - #5 ;
+INFO  02:11:17,368 - #9 print
+INFO  02:11:17,369 - #6 (
+INFO  02:11:17,369 - #26 1
+INFO  02:11:17,369 - #7 )
+INFO  02:11:17,369 - #5 ;
+INFO  02:11:17,369 - #4 }
+INFO  02:11:17,369 - #4 }
+INFO  02:11:17,377 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  DeclarationL(
+    NoDecl(
+    ) [NoDecl]
+    DeclarationVar(
+      VarDeclarations(
+        Type(
+         int
+        ) [Type]
+        VarOne(
+          VarItemIdent(
+           x
+          ) [VarItemIdent]
+        ) [VarOne]
+      ) [VarDeclarations]
+    ) [DeclarationVar]
+  ) [DeclarationL]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      MethodVoid(
+       main
+      ) [MethodVoid]
+      NoDecl(
+      ) [NoDecl]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            DesignatorStmt(
+              Assignment(
+                DesignatorIDENT(
+                 x
+                ) [DesignatorIDENT]
+                TermExpr(
+                  TermFactor(
+                    FactorNUMBER(
+                     4
+                    ) [FactorNUMBER]
+                  ) [TermFactor]
+                ) [TermExpr]
+              ) [Assignment]
+            ) [DesignatorStmt]
+          ) [Statements]
+          MatchedStmt(
+            PrintStmt(
+              TermExpr(
+                TermFactor(
+                  Var(
+                    DesignatorIDENT(
+                     x
+                    ) [DesignatorIDENT]
+                  ) [Var]
+                ) [TermFactor]
+              ) [TermExpr]
+            ) [PrintStmt]
+          ) [MatchedStmt]
+        ) [Statements]
+        MatchedStmt(
+          PrintStmt(
+            TermExpr(
+              TermFactor(
+                FactorNUMBER(
+                 1
+                ) [FactorNUMBER]
+              ) [TermFactor]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [MatchedStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  02:11:17,377 - ===================================
+INFO  02:11:17,396 - Deklarisana promenljiva x
+INFO  02:11:17,396 - Obradjuje se funkcija main na liniji 5
+INFO  02:11:17,396 - TIP 0: 1
+INFO  02:11:17,396 - TIP 1: 1  TIP 2: 1
+INFO  02:11:17,396 - Dobri tipovi!
+INFO  02:11:17,396 - Tippppp: 1
+INFO  02:11:17,397 -  Print count calls = 2
+INFO  02:11:17,397 -  Deklarisanih promenljivih ima = 1
+INFO  02:11:17,397 - ===================================
+INFO  02:13:16,298 - Parsiranje uspesno zavrseno!

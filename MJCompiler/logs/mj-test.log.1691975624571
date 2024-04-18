@@ -1,0 +1,107 @@
+INFO  03:06:49,679 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  03:06:49,724 - #2 program
+INFO  03:06:49,724 - #28 MJProgram
+INFO  03:06:49,724 - #24 const
+INFO  03:06:49,725 - #28 int
+INFO  03:06:49,725 - #28 nula
+INFO  03:06:49,726 - #12 =
+INFO  03:06:49,726 - #27 0
+INFO  03:06:49,726 - #5 ;
+INFO  03:06:49,726 - #24 const
+INFO  03:06:49,727 - #28 int
+INFO  03:06:49,727 - #28 jedan
+INFO  03:06:49,727 - #12 =
+INFO  03:06:49,727 - #27 1
+INFO  03:06:49,727 - #5 ;
+INFO  03:06:49,727 - #24 const
+INFO  03:06:49,727 - #28 int
+INFO  03:06:49,727 - #28 pet
+INFO  03:06:49,727 - #12 =
+INFO  03:06:49,727 - #27 5
+INFO  03:06:49,728 - #5 ;
+INFO  03:06:49,728 - #28 int
+INFO  03:06:49,728 - #28 niz
+INFO  03:06:49,728 - #20 [
+INFO  03:06:49,728 - #21 ]
+INFO  03:06:49,728 - #8 ,
+INFO  03:06:49,728 - #28 niz2
+INFO  03:06:49,728 - #20 [
+INFO  03:06:49,728 - #21 ]
+INFO  03:06:49,728 - #8 ,
+INFO  03:06:49,729 - #28 a
+INFO  03:06:49,729 - #8 ,
+INFO  03:06:49,729 - #28 b
+INFO  03:06:49,729 - #5 ;
+INFO  03:06:49,729 - #28 char
+INFO  03:06:49,729 - #28 nizch
+INFO  03:06:49,729 - #20 [
+INFO  03:06:49,729 - #21 ]
+INFO  03:06:49,729 - #5 ;
+INFO  03:06:49,729 - #28 int
+INFO  03:06:49,730 - #28 mat
+INFO  03:06:49,730 - #20 [
+INFO  03:06:49,730 - #21 ]
+INFO  03:06:49,730 - #20 [
+INFO  03:06:49,730 - #21 ]
+INFO  03:06:49,730 - #5 ;
+INFO  03:06:49,730 - #3 {
+INFO  03:06:49,730 - #28 int
+INFO  03:06:49,731 - #28 k
+INFO  03:06:49,731 - #6 (
+INFO  03:06:49,732 - #7 )
+INFO  03:06:49,732 - #28 int
+INFO  03:06:49,732 - #28 c
+INFO  03:06:49,732 - #5 ;
+INFO  03:06:49,732 - #3 {
+INFO  03:06:49,732 - #28 c
+INFO  03:06:49,733 - #12 =
+INFO  03:06:49,733 - #27 1
+INFO  03:06:49,734 - #5 ;
+INFO  03:06:49,734 - #10 return
+INFO  03:06:49,734 - #28 c
+INFO  03:06:49,734 - #18 %
+INFO  03:06:49,734 - #27 2
+INFO  03:06:49,735 - #5 ;
+INFO  03:06:49,736 - #4 }
+INFO  03:06:49,736 - #28 int
+INFO  03:06:49,737 - #28 main
+INFO  03:06:49,737 - #6 (
+INFO  03:06:49,737 - #7 )
+INFO  03:06:49,737 - #3 {
+INFO  03:06:49,738 - #28 y
+INFO  03:06:49,738 - #12 =
+INFO  03:06:49,738 - #27 2
+INFO  03:06:49,738 - #5 ;
+INFO  03:06:49,738 - #28 x
+INFO  03:06:49,738 - #12 =
+INFO  03:06:49,738 - #28 y
+INFO  03:06:49,738 - #11 +
+INFO  03:06:49,738 - #27 2
+INFO  03:06:49,740 - #5 ;
+INFO  03:06:49,740 - #10 return
+INFO  03:06:49,740 - #27 0
+INFO  03:06:49,740 - #5 ;
+INFO  03:06:49,740 - #4 }
+INFO  03:06:49,740 - #4 }
+INFO  03:06:49,748 - Deklarisana konstanta nula
+INFO  03:06:49,748 - Deklaracija
+INFO  03:06:49,748 - Deklarisana konstanta jedan
+INFO  03:06:49,748 - Deklaracija
+INFO  03:06:49,748 - Deklarisana konstanta pet
+INFO  03:06:49,748 - Deklaracija
+INFO  03:06:49,748 - Deklarisana promenljiva a
+INFO  03:06:49,748 - Deklarisana promenljiva b
+INFO  03:06:49,748 - Deklarisana je niz  niz
+INFO  03:06:49,748 - Deklarisana je niz  niz2
+INFO  03:06:49,748 - Deklaracija VAR-a
+INFO  03:06:49,749 - Deklaracija
+INFO  03:06:49,749 - Deklarisana je niz  nizch
+INFO  03:06:49,749 - Deklaracija VAR-a
+INFO  03:06:49,749 - Deklaracija
+INFO  03:06:49,749 - Deklaracija VAR-a
+INFO  03:06:49,749 - Deklaracija
+INFO  03:06:49,749 - Deklarisana promenljiva c
+INFO  03:06:49,749 - Deklaracija VAR-a
+INFO  03:06:49,749 - Deklaracija
+INFO  03:06:49,749 - Print calls = 0
+INFO  03:06:49,750 - Parsiranje uspesno zavrseno!

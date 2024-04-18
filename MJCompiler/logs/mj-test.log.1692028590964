@@ -1,0 +1,89 @@
+INFO  17:54:10,120 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:54:10,161 - #2 program
+INFO  17:54:10,161 - #27 MJProgram
+INFO  17:54:10,161 - #27 int
+INFO  17:54:10,163 - #27 a
+INFO  17:54:10,164 - #5 ;
+INFO  17:54:10,165 - #27 int
+INFO  17:54:10,165 - #27 b
+INFO  17:54:10,165 - #5 ;
+INFO  17:54:10,165 - #27 char
+INFO  17:54:10,166 - #27 nizX
+INFO  17:54:10,166 - #20 [
+INFO  17:54:10,166 - #21 ]
+INFO  17:54:10,166 - #5 ;
+INFO  17:54:10,166 - #23 const
+INFO  17:54:10,166 - #27 char
+INFO  17:54:10,166 - #27 jedan
+INFO  17:54:10,167 - #12 =
+INFO  17:54:10,167 - #28 1
+INFO  17:54:10,167 - #5 ;
+INFO  17:54:10,167 - #23 const
+INFO  17:54:10,168 - #27 int
+INFO  17:54:10,168 - #27 x
+INFO  17:54:10,168 - #12 =
+INFO  17:54:10,168 - #26 1
+INFO  17:54:10,168 - #5 ;
+INFO  17:54:10,168 - #23 const
+INFO  17:54:10,168 - #27 bool
+INFO  17:54:10,169 - #27 s
+INFO  17:54:10,169 - #12 =
+INFO  17:54:10,169 - #29 true
+INFO  17:54:10,169 - #5 ;
+INFO  17:54:10,169 - #23 const
+INFO  17:54:10,169 - #27 bool
+INFO  17:54:10,169 - #27 s1
+INFO  17:54:10,169 - #12 =
+INFO  17:54:10,169 - #29 false
+INFO  17:54:10,169 - #5 ;
+INFO  17:54:10,170 - #3 {
+INFO  17:54:10,170 - #27 int
+INFO  17:54:10,171 - #27 k
+INFO  17:54:10,171 - #6 (
+INFO  17:54:10,172 - #7 )
+INFO  17:54:10,172 - #27 int
+INFO  17:54:10,172 - #27 c
+INFO  17:54:10,172 - #5 ;
+INFO  17:54:10,172 - #3 {
+INFO  17:54:10,172 - #27 c
+INFO  17:54:10,173 - #12 =
+INFO  17:54:10,173 - #26 1
+INFO  17:54:10,173 - #5 ;
+INFO  17:54:10,173 - #10 return
+INFO  17:54:10,174 - #27 c
+INFO  17:54:10,174 - #18 %
+INFO  17:54:10,174 - #26 2
+INFO  17:54:10,176 - #5 ;
+INFO  17:54:10,176 - #4 }
+INFO  17:54:10,176 - #27 int
+INFO  17:54:10,177 - #27 main
+INFO  17:54:10,177 - #6 (
+INFO  17:54:10,177 - #7 )
+INFO  17:54:10,177 - #3 {
+INFO  17:54:10,177 - #27 y
+INFO  17:54:10,177 - #12 =
+INFO  17:54:10,177 - #26 2
+INFO  17:54:10,177 - #5 ;
+INFO  17:54:10,177 - #27 x
+INFO  17:54:10,177 - #12 =
+INFO  17:54:10,178 - #27 y
+INFO  17:54:10,178 - #11 +
+INFO  17:54:10,178 - #26 2
+INFO  17:54:10,179 - #5 ;
+INFO  17:54:10,179 - #10 return
+INFO  17:54:10,179 - #26 0
+INFO  17:54:10,179 - #5 ;
+INFO  17:54:10,179 - #4 }
+INFO  17:54:10,179 - #4 }
+INFO  17:54:10,186 - Deklarisana promenljiva a
+INFO  17:54:10,186 - Deklarisana promenljiva b
+INFO  17:54:10,186 - Deklarisan je niz nizX
+INFO  17:54:10,187 - Deklarisana je konsanta char jedan = 49 na liniji 4
+INFO  17:54:10,187 - Deklarisana je konsanta int x = 1
+ERROR 17:54:10,187 - Nije pronadjen tip bool u tabeli simbola
+INFO  17:54:10,187 - GRESKA: nekompatiblni tipovi boolean i 1
+ERROR 17:54:10,187 - Nije pronadjen tip bool u tabeli simbola
+INFO  17:54:10,187 - GRESKA: nekompatiblni tipovi boolean i 0
+INFO  17:54:10,187 - Deklarisana promenljiva c
+INFO  17:54:10,187 - Print calls = 0
+ERROR 17:54:10,188 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,170 @@
+INFO  22:40:30,656 - Compiling source file: C:\Users\Neca\Desktop\pp1lab.templateAST\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:40:30,725 - #2 program
+INFO  22:40:30,725 - #27 MJProgram
+INFO  22:40:30,726 - #23 const
+INFO  22:40:30,728 - #27 int
+INFO  22:40:30,728 - #27 nula
+INFO  22:40:30,730 - #12 =
+INFO  22:40:30,730 - #26 0
+INFO  22:40:30,730 - #5 ;
+INFO  22:40:30,731 - #23 const
+INFO  22:40:30,732 - #27 int
+INFO  22:40:30,732 - #27 jedan
+INFO  22:40:30,732 - #12 =
+INFO  22:40:30,732 - #26 1
+INFO  22:40:30,733 - #5 ;
+INFO  22:40:30,733 - #23 const
+INFO  22:40:30,733 - #27 int
+INFO  22:40:30,733 - #27 pet
+INFO  22:40:30,733 - #12 =
+INFO  22:40:30,734 - #26 5
+INFO  22:40:30,734 - #5 ;
+INFO  22:40:30,734 - #23 const
+INFO  22:40:30,734 - #27 char
+INFO  22:40:30,734 - #27 pet1
+INFO  22:40:30,735 - #12 =
+INFO  22:40:30,735 - #28 c
+INFO  22:40:30,735 - #5 ;
+INFO  22:40:30,735 - #27 int
+INFO  22:40:30,735 - #27 niz
+INFO  22:40:30,735 - #20 [
+INFO  22:40:30,735 - #21 ]
+INFO  22:40:30,736 - #8 ,
+INFO  22:40:30,736 - #27 niz2
+INFO  22:40:30,736 - #20 [
+INFO  22:40:30,736 - #21 ]
+INFO  22:40:30,736 - #8 ,
+INFO  22:40:30,736 - #27 a
+INFO  22:40:30,736 - #8 ,
+INFO  22:40:30,736 - #27 b
+INFO  22:40:30,736 - #5 ;
+INFO  22:40:30,737 - #27 char
+INFO  22:40:30,737 - #27 nizch
+INFO  22:40:30,737 - #20 [
+INFO  22:40:30,737 - #21 ]
+INFO  22:40:30,737 - #8 ,
+INFO  22:40:30,737 - #27 c
+INFO  22:40:30,737 - #5 ;
+INFO  22:40:30,738 - #27 bool
+INFO  22:40:30,738 - #27 s1
+INFO  22:40:30,738 - #5 ;
+INFO  22:40:30,738 - #3 {
+INFO  22:40:30,738 - #13 void
+INFO  22:40:30,739 - #27 main
+INFO  22:40:30,740 - #6 (
+INFO  22:40:30,740 - #7 )
+INFO  22:40:30,740 - #27 int
+INFO  22:40:30,740 - #27 bodovi
+INFO  22:40:30,740 - #5 ;
+INFO  22:40:30,740 - #27 bool
+INFO  22:40:30,740 - #27 bt
+INFO  22:40:30,740 - #5 ;
+INFO  22:40:30,740 - #27 int
+INFO  22:40:30,741 - #27 s
+INFO  22:40:30,741 - #5 ;
+INFO  22:40:30,741 - #3 {
+INFO  22:40:30,741 - #27 bodovi
+INFO  22:40:30,743 - #12 =
+INFO  22:40:30,743 - #26 0
+INFO  22:40:30,743 - #5 ;
+INFO  22:40:30,743 - #27 bodovi
+INFO  22:40:30,744 - #15 ++
+INFO  22:40:30,744 - #5 ;
+INFO  22:40:30,744 - #27 bodovi
+INFO  22:40:30,744 - #12 =
+INFO  22:40:30,744 - #27 bodovi
+INFO  22:40:30,744 - #11 +
+INFO  22:40:30,744 - #27 jedan
+INFO  22:40:30,746 - #5 ;
+INFO  22:40:30,747 - #27 bodovi
+INFO  22:40:30,747 - #12 =
+INFO  22:40:30,747 - #27 bodovi
+INFO  22:40:30,747 - #14 *
+INFO  22:40:30,747 - #27 pet
+INFO  22:40:30,749 - #5 ;
+INFO  22:40:30,749 - #27 bodovi
+INFO  22:40:30,749 - #16 --
+INFO  22:40:30,749 - #5 ;
+INFO  22:40:30,749 - #9 print
+INFO  22:40:30,749 - #6 (
+INFO  22:40:30,750 - #27 bodovi
+INFO  22:40:30,750 - #7 )
+INFO  22:40:30,750 - #5 ;
+INFO  22:40:30,750 - #27 nizch
+INFO  22:40:30,750 - #12 =
+INFO  22:40:30,750 - #32 new
+INFO  22:40:30,750 - #27 char
+INFO  22:40:30,750 - #20 [
+INFO  22:40:30,750 - #26 3
+INFO  22:40:30,750 - #21 ]
+INFO  22:40:30,750 - #5 ;
+INFO  22:40:30,751 - #27 nizch
+INFO  22:40:30,751 - #20 [
+INFO  22:40:30,751 - #26 0
+INFO  22:40:30,751 - #21 ]
+INFO  22:40:30,751 - #12 =
+INFO  22:40:30,751 - #28 a
+INFO  22:40:30,751 - #5 ;
+INFO  22:40:30,752 - #22 read
+INFO  22:40:30,752 - #6 (
+INFO  22:40:30,752 - #27 bodovi
+INFO  22:40:30,752 - #7 )
+INFO  22:40:30,752 - #5 ;
+INFO  22:40:30,752 - #27 bodovi
+INFO  22:40:30,752 - #12 =
+INFO  22:40:30,752 - #19 -
+INFO  22:40:30,752 - #27 bodovi
+INFO  22:40:30,752 - #11 +
+INFO  22:40:30,753 - #6 (
+INFO  22:40:30,753 - #27 pet
+INFO  22:40:30,753 - #14 *
+INFO  22:40:30,753 - #27 a
+INFO  22:40:30,753 - #17 /
+INFO  22:40:30,753 - #26 2
+INFO  22:40:30,754 - #19 -
+INFO  22:40:30,754 - #27 jedan
+INFO  22:40:30,755 - #7 )
+INFO  22:40:30,756 - #14 *
+INFO  22:40:30,756 - #27 bodovi
+INFO  22:40:30,756 - #19 -
+INFO  22:40:30,756 - #6 (
+INFO  22:40:30,756 - #26 3
+INFO  22:40:30,756 - #18 %
+INFO  22:40:30,756 - #26 2
+INFO  22:40:30,757 - #11 +
+INFO  22:40:30,757 - #26 3
+INFO  22:40:30,758 - #14 *
+INFO  22:40:30,758 - #26 2
+INFO  22:40:30,758 - #19 -
+INFO  22:40:30,758 - #26 3
+INFO  22:40:30,759 - #7 )
+INFO  22:40:30,759 - #5 ;
+INFO  22:40:30,759 - #9 print
+INFO  22:40:30,759 - #6 (
+INFO  22:40:30,759 - #27 bodovi
+INFO  22:40:30,759 - #7 )
+INFO  22:40:30,759 - #5 ;
+INFO  22:40:30,760 - #4 }
+INFO  22:40:30,760 - #4 }
+INFO  22:40:30,780 - Deklarisana je konsanta int nula = 0
+INFO  22:40:30,780 - Deklarisana je konsanta int jedan = 1
+INFO  22:40:30,781 - Deklarisana je konsanta int pet = 5
+INFO  22:40:30,781 - Deklarisana je konsanta char pet1 = 99 na liniji 6
+INFO  22:40:30,781 - Deklarisan je niz niz
+INFO  22:40:30,781 - Deklarisan je niz niz2
+INFO  22:40:30,781 - Deklarisana promenljiva a
+INFO  22:40:30,781 - Deklarisana promenljiva b
+INFO  22:40:30,781 - Deklarisan je niz nizch
+INFO  22:40:30,782 - Deklarisana promenljiva c
+INFO  22:40:30,782 - Deklarisana promenljiva s1
+INFO  22:40:30,782 - Obradjuje se funkcija main na liniji 12
+INFO  22:40:30,782 - Deklarisana promenljiva bodovi
+INFO  22:40:30,782 - Deklarisana promenljiva bt
+INFO  22:40:30,782 - Deklarisana promenljiva s
+ERROR 22:40:30,782 - Greska na liniji 27 : funkcija NEW mora da ide uz INT.
+ERROR 22:40:30,783 - Greska na liniji 27 :  nekompatibilni tipovi u dodeli vrednosti 
+ERROR 22:40:30,785 - Greska na liniji 28 :  nekompatibilni tipovi u dodeli vrednosti 
+INFO  22:40:30,785 - Izvrsena negacija  na liniji 33
+INFO  22:40:30,785 - Print calls = 2
+INFO  22:40:30,786 -  Deklarisanih promenljivih ima = 10
+ERROR 22:40:30,786 - Parsiranje NIJE uspesno zavrseno!
